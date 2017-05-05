@@ -1,0 +1,4126 @@
+|.|.
+|"|"
+|[|[
+|]|]
+|(|)
+|)|(
+|the| 
+|be|بودن
+|and|و
+|of|از
+|Arash|آرش
+|Seyedi|سیدی
+|a|یک
+|in|به
+|to|به
+|have|داشتن
+|it|آن
+|I|من
+|that|که
+|for|براي
+|you|شما
+|he|او
+|with|با
+|on|بر
+|do|انجام دادن
+|say|گفتن
+|this|اين
+|they|آنها
+|at|در
+|but|اما
+|we|ما
+|his|او
+|from|از
+|not|نه
+|not|نیست
+|by|توسط
+|she|او
+|or|يا
+|as|مانند
+|what|چه
+|go|رفتن
+|their|شان
+|can|مي تواند
+|who|که
+|get|رسيدن
+|if|اگر
+|would|خواهد بود
+|her|او
+|all|تمام
+|my|من
+|make|ساخت
+|about|در باره
+|know|دانستن
+|will|اراده
+|up|بالا
+|one|يک
+|time|زمان
+|there|آنجا
+|year|سال
+|so|پس
+|think|فکر کردن
+|when|وقتي که
+|which|که
+|them|آنها
+|some|برخي از
+|me|به من
+|people|مردم
+|take|گرفتن
+|out|خارج
+|into|به
+|just|فقط
+|see|ديدن
+|him|او را
+|your|خود را
+|come|رسيدن
+|could|ميتوانست
+|now|اکنون
+|than|نسبت به
+|like|مانند
+|other|ديگر
+|how|چگونه
+|then|سپس
+|its|آن
+|our|ما
+|two|دو
+|more|بيشتر
+|these|اينها
+|want|خواست
+|way|راه
+|look|نگاه
+|first|اولين
+|also|همچنين
+|new|جديد
+|because|زيرا
+|day|روز
+|use|استفاده
+|no|هيچ
+|man|مرد
+|find|پيدا کردن
+|here|اينجا
+|thing|چيز
+|give|دادن
+|many|بسياري
+|well|خوب
+|only|فقط
+|those|کساني که
+|tell|گفتن
+|very|بسيار
+|even|حتي
+|back|پشت
+|any|هر
+|good|خوب
+|woman|زن
+|through|از طريق
+|us|ما
+|life|زندگي
+|child|کودک
+|work|کار
+|down|پايين
+|may|ممکن است
+|after|پس از
+|should|بايد
+|call|صدا
+|calling|فراخوانی
+|declaring|اعلام
+|world|جهان
+|over|روي
+|school|مدرسه
+|still|هنوز
+|try|امتحان
+|last|آخر
+|ask|پرسيدن
+|need|نياز
+|too|هم
+|feel|احساس
+|three|سه
+|state|دولت
+|never|هرگز
+|become|شدن
+|between|ميان
+|high|زياد
+|really|واقعا
+|something|چيزي
+|most|بيشترين
+|another|ديگر
+|much|بسيار
+|family|خانواده
+|own|خود
+|leave|مرخصي
+|put|قرار دادن
+|old|قديمي
+|while|در حين
+|mean|متوسط
+|keep|نگاه داشتن
+|student|دانشجو
+|why|چرا
+|let|اجازه
+|great|بزرگ
+|same|همان
+|big|بزرگ
+|group|گروه
+|begin|شروع
+|seem|به نظر مي رسد
+|country|کشور
+|help|کمک
+|talk|صحبت
+|where|جايي که
+|turn|نوبت
+|problem|مشکل
+|every|هر
+|start|شروع
+|hand|دست
+|might|قدرت
+|American|امريکايي
+|show|نشان
+|part|بخش
+|against|در برابر
+|place|محل
+|such|چنين
+|again|دوباره
+|few|کمي از
+|case|مورد
+|week|هفته
+|company|شرکت
+|system|سيستم
+|each|هر
+|right|راست
+|program|برنامه
+|hear|شنيدن
+|question|سوال
+|during|در طي
+|play|بازي
+|government|دولت
+|run|دويدن
+|small|کوچک
+|number|شماره
+|off|خاموش
+|always|هميشه
+|move|حرکت
+|night|شب
+|live|زنده
+|Mr|آقاي
+|point|نقطه
+|believe|باور
+|hold|نگه داشتن
+|today|امروز
+|bring|را
+|happen|اتفاق مي افتد 
+|next|بعد
+|without|بدون
+|before|قبل از
+|large|بزرگ
+|million|ميليون
+|must|بايد
+|home|خانه
+|under|تحت
+|water|اب
+|room|اتاق
+|write|نوشتن
+|mother|مادر
+|area|منطقه
+|national|ملي
+|money|پول
+|story|داستان
+|young|جوان
+|fact|حقيقت
+|month|ماه
+|different|مختلف
+|lot|خيلي
+|study|مطالعه
+|book|کتاب
+|eye|چشم
+|job|کار
+|word|کلمه
+|though|اگر چه
+|business|تجارت
+|issue|موضوع
+|side|سمت
+|kind|نوع
+|four|چهار
+|head|سر
+|far|دور از
+|black|سياه
+|long|طولاني
+|both|هر دو
+|little|کوچک
+|house|خانه
+|yes|بله
+|since|پس از
+|provide|ارائه
+|service|سرويس
+|around|در اطراف
+|friend|دوست
+|important|مهم
+|father|پدر
+|sit|نشستن
+|away|دور
+|until|تا
+|power|قدرت
+|hour|ساعت
+|game|بازي
+|often|غالبا
+|yet|هنوز
+|line|خط
+|political|سياسي
+|end|پايان
+|among|در ميان
+|ever|هميشه
+|stand|ايستادن
+|bad|بد
+|lose|از دست دادن 
+|however|اما
+|member|عضو
+|pay|پرداخت
+|law|قانون
+|meet|ملاقات
+|car|اتومبيل
+|city|شهرستان
+|almost|تقريبا
+|include|عبارتند از
+|continue|ادامه
+|set|مجموعه
+|later|بعد
+|community|انجمن
+|name|نام
+|five|پنج
+|once|يک بار
+|white|سفيد
+|least|کمترين
+|president|رئيس جمهور
+|learn|ياد بگيرند
+|real|واقعي
+|change|تغيير
+|team|تيم
+|minute|دقيقه
+|best|بهترين
+|several|چند
+|idea|فکر
+|kid|بچه
+|body|بدن
+|information|اطلاعات
+|nothing|هيچ
+|ago|پيش
+|lead|رهبري
+|social|اجتماعي
+|understand|فهميدن
+|whether|چه
+|watch|ساعت
+|together|با هم
+|follow|دنبال کردن
+|parent|پدر يا مادر 
+|stop|توقف
+|face|صورت
+|anything|هر چيزي
+|create|ساختن
+|public|عمومي
+|already|قبلا
+|speak|صحبت کردن
+|others|ديگران
+|read|خواندن
+|level|سطح
+|allow|اجازه دادن
+|add|اضافه کردن
+|office|دفتر
+|spend|خرج کردن
+|door|درب
+|health|سلامت
+|person|شخص
+|art|هنر
+|sure|مطمئن
+|war|جنگ
+|history|تاريخ
+|party|حزب
+|within|در داخل
+|grow|رشد
+|result|نتيجه
+|open|باز
+|morning|صبح
+|walk|راه رفتن
+|reason|دليل
+|low|کم
+|win|پيروزي
+|research|پژوهش
+|girl|دختر
+|guy|مرد
+|early|در اوايل
+|food|غذا
+|moment|لحظه
+|himself|خود
+|air|هوا
+|teacher|معلم
+|force|مجبور
+|offer|ارائه
+|enough|کافي
+|education|آموزش و پرورش 
+|across|در ميان
+|although|اگر چه
+|remember|به ياد داشته باشيد
+|foot|پا
+|second|دوم
+|boy|پسر
+|maybe|شايد
+|toward|نسبت به
+|able|قادر
+|age|سن
+|policy|سياست
+|everything|همه چيز
+|love|عشق
+|process|روند
+|music|موسيقي
+|including|از جمله
+|consider|در نظر
+|appear|به نظر مي رسد
+|actually|در حقيقت
+|buy|خريد
+|probably|شايد
+|human|انساني
+|wait|صبر کردن
+|serve|خدمت
+|market|بازار
+|die|مردن
+|send|ارسال
+|expect|انتظار
+|sense|حس
+|build|ساختن
+|stay|ماندن
+|fall|سقوط
+|oh|اوه
+|nation|ملت
+|plan|طرح
+|cut|قطع
+|college|کالج
+|interest|علاقه
+|death|مرگ
+|course|دوره
+|someone|کسي
+|experience|تجربه
+|behind|پشت سر
+|reach|رسيدن به
+|local|محلي
+|kill|کشتن
+|six|شش
+|remain|ماندن
+|effect|اثر
+|yeah|آره
+|suggest|نشان مي دهد 
+|class|کلاس
+|control|کنترل
+|raise|بالا بردن
+|care|مراقبت
+|perhaps|شايد
+|late|دير
+|hard|سخت
+|field|رشته
+|else|ديگر
+|pass|عبور
+|former|سابق
+|sell|فروختن
+|major|عمده
+|sometimes|گاهي
+|require|نياز
+|along|همراه
+|development|توسعه
+|themselves|خودشان
+|report|گزارش
+|role|نقش
+|better|بهتر
+|economic|اقتصادي
+|effort|تلاش
+|decide|تصميم گيري
+|rate|نرخ
+|strong|قوي
+|possible|ممکن
+|heart|قلب
+|drug|دارو
+|leader|رهبر
+|light|نور
+|voice|صدا
+|wife|زن
+|whole|تمام
+|police|پليس
+|mind|ذهن
+|finally|سرانجام
+|pull|کشيدن
+|return|برگشت
+|free|رايگان
+|military|نظامي
+|price|قيمت
+|less|کمتر
+|according|مطابق
+|decision|تصميم
+|explain|توضيح
+|son|پسر
+|hope|اميد
+|develop|توسعه
+|view|نظر
+|relationship|ارتباط
+|carry|بردن
+|town|شهر
+|road|جاده
+|drive|راندن
+|arm|بازو
+|TRUE|TRUE
+|federal|فدرال
+|break|شکستن
+|difference|تفاوت
+|thank|تشکر
+|receive|گرفتن
+|value|ارزش
+|international|بين المللي
+|building|ساختمان
+|action|اقدام
+|full|کامل
+|model|مدل
+|join|پيوستن
+|season|فصل
+|society|جامعه
+|tax|ماليات
+|director|مدير
+|position|موقعيت
+|player|نوازنده
+|agree|موافقت
+|especially|به خصوص
+|record|رکورد
+|pick|کلنگ
+|wear|پوشيدن
+|paper|مقاله
+|special|ويژه
+|space|فضا
+|ground|زمين
+|form|فرم
+|support|پشتيباني
+|event|واقعه
+|official|رسمي
+|whose|که
+|matter|ماده
+|everyone|هر کس
+|center|مرکز
+|couple|زن و شوهر 
+|site|محل
+|project|پروژه
+|hit|اصابت
+|base|پايه
+|activity|فعاليت
+|star|ستاره
+|table|جدول
+|court|دادگاه
+|produce|محصول
+|eat|خوردن
+|teach|آموزش
+|oil|نفت
+|half|نيم
+|situation|وضعيت
+|easy|ساده
+|cost|هزينه
+|industry|صنعت
+|figure|شکل
+|street|خيابان
+|image|تصوير
+|itself|خود
+|phone|تلفن
+|either|هر دو
+|data|اطلاعات
+|cover|پوشش
+|quite|کاملا
+|picture|عکس
+|clear|روشن
+|practice|عمل
+|piece|قطعه
+|land|زمين
+|recent|اخير
+|describe|توصيف
+|product|محصول
+|doctor|دکتر
+|wall|ديوار
+|patient|بيمار
+|worker|کارگر
+|news|اخبار
+|test|آزمون
+|movie|سينما
+|certain|معين
+|north|شمال
+|personal|شخصي
+|simply|بسادگي
+|third|سوم
+|technology|تکنولوژي
+|catch|گرفتن
+|step|گام
+|baby|کودک
+|computer|کامپيوتر
+|type|نوع
+|attention|توجه
+|draw|قرعه کشي
+|film|فيلم
+|Republican|جمهوري
+|tree|درخت
+|source|منبع
+|red|قرمز
+|nearly|تقريبا
+|organization|سازمان
+|choose|را انتخاب کنيد 
+|cause|علت
+|hair|مو
+|century|قرن
+|evidence|مدرک
+|window|پنجره
+|difficult|دشوار
+|listen|گوش دادن
+|soon|بزودي
+|culture|فرهنگ
+|billion|بيليون
+|chance|شانس
+|brother|برادر
+|energy|انرژي
+|period|دوره
+|summer|تابستان
+|realize|تحقق بخشيدن
+|hundred|صد
+|available|موجود
+|plant|گياه
+|likely|احتمالا
+|opportunity|فرصت
+|term|مدت
+|short|کوتاه
+|letter|نامه
+|condition|شرط
+|choice|انتخاب
+|single|تک
+|rule|رد
+|daughter|دختر
+|administration|حکومت
+|south|جنوب
+|husband|شوهر
+|Congress|کنگره
+|floor|طبقه
+|campaign|کمپين
+|material|ماده
+|population|جمعيت
+|economy|اقتصاد
+|medical|پزشکي
+|hospital|بيمارستان
+|church|کليسا
+|close|نزديک
+|thousand|هزار
+|risk|خطر
+|current|جريان
+|fire|آتش
+|future|بعدي
+|wrong|اشتباه
+|involve|شامل
+|defense|دفاع
+|anyone|هر کس
+|increase|افزايش
+|security|امنيت
+|bank|بانک
+|myself|خودم
+|certainly|قطعا
+|west|غرب
+|sport|ورزش
+|board|تخته
+|seek|به دنبال
+|per|در هر
+|subject|موضوع
+|officer|افسر
+|private|خصوصي
+|rest|استراحت
+|behavior|رفتار
+|deal|برخورد
+|performance|کارايي
+|fight|جنگ
+|throw|پرتاب
+|top|بالا
+|quickly|سريعا
+|past|گذشته
+|goal|هدف
+|bed|بستر
+|order|نظم
+|author|نويسنده
+|fill|پر کردن
+|represent|نشان دادن
+|focus|کانون
+|foreign|خارجي
+|drop|رها کردن
+|blood|خون
+|upon|بر
+|agency|نمايندگي
+|push|فشار
+|nature|طبيعت
+|color|رنگ
+|recently|تازه
+|store|ذخيره
+|reduce|کاستن
+|sound|صدا
+|note|يادداشت
+|fine|خوب
+|near|نزديک
+|movement|جنبش
+|page|صفحه
+|enter|وارد شدن
+|share|سهم
+|common|مشترک
+|poor|فقير
+|natural|طبيعي
+|race|نژاد
+|concern|علاقه
+|series|سلسله
+|significant|قابل توجه
+|similar|مشابه
+|hot|داغ
+|language|زبان
+|usually|معمولا
+|response|پاسخ
+|dead|مرده
+|rise|بالا رفتن
+|animal|حيواني
+|factor|عامل
+|decade|دهه
+|article|مقاله
+|shoot|شليک
+|east|شرق
+|save|صرفه جويي
+|seven|هفت
+|artist|هنرمند
+|scene|صحنه
+|stock|موجودي
+|career|حرفه اي
+|despite|با وجود
+|central|مرکزي
+|eight|هشت
+|thus|بنابر اين
+|treatment|درمان
+|beyond|خارج از
+|happy|خوشحال
+|exactly|کاملا
+|protect|محافظت
+|approach|روش
+|lie|دروغ
+|size|اندازه
+|dog|سگ
+|fund|صندوق
+|serious|جدي
+|occur|رخ مي دهد 
+|media|رسانه ها
+|ready|اماده
+|sign|امضاء
+|thought|فکر
+|list|فهرست
+|individual|فرد
+|simple|ساده
+|quality|کيفيت
+|pressure|فشار
+|accept|پذيرفتن
+|answer|پاسخ
+|resource|منابع
+|identify|شناسايي
+|left|سمت چپ
+|meeting|جلسه
+|determine|مشخص کردن
+|prepare|آماده
+|are|هستیم
+|disease|مرض
+|whatever|هر چه
+|success|موفقيت
+|argue|استدلال
+|cup|فنجان
+|particularly|ويژه
+|amount|مقدار
+|ability|توانايي
+|staff|کارکنان
+|recognize|شناختن
+|indicate|نشان دادن
+|character|شخصيت
+|growth|رشد
+|loss|فقدان
+|degree|درجه
+|wonder|تعجب
+|attack|حمله
+|herself|خودش
+|region|منطقه
+|television|تلويزيون
+|box|جعبه
+|TV|تلويزيون
+|training|پرورش
+|pretty|قشنگ
+|trade|تجارت
+|election|انتخاب
+|everybody|هر کس
+|physical|فيزيکي
+|lay|غير روحاني
+|general|عمومي
+|feeling|احساس
+|standard|استاندارد
+|bill|لايحه
+|message|پيام
+|fail|شکست
+|outside|خارج از
+|arrive|رسيدن
+|analysis|تحليل
+|benefit|سود
+|sex|جنسي
+|forward|به جلو
+|lawyer|وکيل دادگستري
+|present|ارائه
+|section|بخش
+|environmental|محيطي
+|glass|شيشه
+|skill|مهارت
+|sister|خواهر
+|PM|PM
+|professor|استاد
+|operation|عمل
+|financial|مالي
+|crime|جرم
+|stage|مرحله
+|ok|خوب
+|compare|مقايسه
+|authority|قدرت
+|miss|از دست
+|design|طرح
+|sort|نوع
+|act|عمل
+|ten|ده
+|knowledge|دانش
+|gun|تفنگ
+|station|ايستگاه
+|blue|ابي
+|strategy|استراتژي
+|clearly|به وضوح
+|discuss|مورد بحث
+|indeed|در واقع
+|truth|حقيقت
+|song|ترانه
+|example|مثال
+|democratic|دموکراتيک
+|check|چک
+|environment|محيط
+|leg|پا
+|dark|تاريک
+|various|مختلف
+|rather|بلکه
+|laugh|خنديدن
+|guess|حدس
+|executive|اجرايي
+|prove|ثابت کردن
+|hang|چسبيدن به
+|entire|تمام
+|rock|سنگ
+|forget|فراموش کردن
+|claim|ادعا
+|remove|برداشتن
+|manager|مدير
+|enjoy|لذت بردن
+|network|شبکه
+|legal|حقوقي
+|religious|مذهبي
+|cold|سرد
+|final|نهايي
+|main|اصلي
+|science|علم
+|green|سبز
+|memory|حافظه
+|card|کارت
+|above|در بالا
+|seat|صندلي
+|cell|سلول
+|establish|ايجاد
+|nice|خوب
+|trial|محاکمه
+|expert|متخصص
+|spring|بهار
+|firm|شرکت
+|Democrat|عضو حزب دموکرات 
+|radio|راديو
+|visit|بازديد
+|management|اداره
+|avoid|جلوگيري از
+|imagine|تصور کنيد
+|tonight|امشب
+|huge|کلان
+|ball|توپ
+|finish|پايان
+|yourself|خودت
+|theory|نظريه
+|impact|ضربه
+|respond|پاسخ
+|statement|بيانيه
+|maintain|نگه داشتن
+|charge|اتهام
+|popular|محبوب
+|traditional|مرسوم
+|onto|بر روي
+|reveal|فاش کردن
+|direction|جهت
+|weapon|سلاح
+|employee|کارمند
+|cultural|فرهنگي
+|contain|شامل
+|peace|صلح
+|pain|درد
+|apply|اعمال مي شود 
+|measure|اندازه
+|wide|وسيع
+|shake|تکان دادن
+|fly|پرواز
+|interview|مصاحبه
+|manage|اداره کردن
+|chair|صندلي
+|fish|ماهي
+|particular|خاص
+|camera|دوربين
+|structure|ساختار
+|politics|سياست
+|perform|انجام دادن
+|bit|ذره
+|weight|وزن
+|suddenly|ناگهان
+|discover|پيدا کردن
+|candidate|نامزد
+|production|توليد
+|treat|درمان
+|trip|سفر
+|evening|شب
+|affect|اثر
+|inside|داخل
+|conference|کنفرانس
+|unit|واحد
+|style|سبک
+|adult|بالغ
+|worry|نگراني
+|range|محدوده
+|mention|ذکر
+|deep|عميق
+|edge|لبه
+|specific|خاص
+|writer|نويسنده
+|trouble|زحمت
+|necessary|لازم
+|throughout|سراسر
+|challenge|چالش
+|fear|ترس
+|shoulder|شانه
+|institution|نهاد
+|middle|وسط
+|sea|دريا
+|dream|خواب
+|bar|بار
+|beautiful|زيبا
+|property|خاصيت
+|instead|در عوض
+|improve|بهبود
+|stuff|چيز
+|detail|جزئيات
+|method|روش
+|Methods|روش های
+|static|ایستا
+|Modifier|پیراینده
+|somebody|کسي
+|magazine|مجله
+|hotel|هتل
+|soldier|سرباز
+|reflect|منعکس کردن
+|heavy|سنگين
+|sexual|جنسي
+|bag|کيسه
+|heat|گرما
+|marriage|ازدواج
+|tough|سخت
+|sing|خواندن
+|surface|سطح
+|purpose|هدف
+|exist|وجود داشته باشد 
+|pattern|الگو
+|whom|چه کسي
+|skin|پوست
+|agent|عامل
+|owner|دارنده
+|machine|ماشين
+|gas|گاز
+|ahead|پيش
+|generation|نسل
+|commercial|تجاري
+|address|ادرس
+|cancer|سرطان
+|item|بخش
+|reality|واقعيت
+|coach|مربي
+|Mrs|خانم
+|yard|حياط
+|beat|ضرب
+|violence|خشونت
+|total|کل
+|tend|تمايل
+|investment|سرمايه گذاري
+|discussion|گفتگو
+|finger|انگشت
+|garden|باغ
+|notice|توجه
+|collection|مجموعه
+|modern|مدرن
+|task|کار
+|partner|شريک
+|positive|مثبت
+|civil|مدني
+|kitchen|اشپزخانه
+|consumer|مصرف کننده
+|shot|عکس
+|budget|بودجه
+|wish|دلخواه
+|painting|نقاشي
+|scientist|دانشمند
+|safe|ايمن
+|agreement|موافقت
+|capital|سرمايه
+|mouth|دهان
+|nor|نه
+|victim|قرباني
+|newspaper|روزنامه
+|threat|تهديد
+|responsibility|مسئوليت
+|smile|لبخند
+|attorney|وکيل
+|score|نمره
+|account|حساب
+|interesting|جالب
+|audience|حضار
+|rich|غني
+|dinner|شام
+|vote|راي
+|western|غربي
+|relate|ارتباط
+|travel|سفر
+|debate|مناظره
+|prevent|جلوگيري از
+|citizen|شهروند
+|majority|اکثريت
+|none|هيچ يک
+|front|جلو
+|born|متولد
+|admit|پذيرفتن
+|senior|ارشد
+|assume|گرفتن
+|wind|باد
+|key|کليد
+|professional|حرفه اي
+|mission|ماموريت
+|fast|سريع
+|alone|تنها
+|customer|مشتري
+|suffer|رنج مي برند 
+|speech|سخنراني
+|successful|موفق
+|option|انتخاب
+|participant|شرکت کننده
+|southern|جنوبي
+|fresh|تازه
+|eventually|سرانجام
+|forest|جنگل
+|video|تصويري
+|global|جهاني
+|Senate|مجلس سنا
+|reform|اصلاحات
+|access|دسترسي
+|restaurant|رستوران
+|judge|قاضي
+|publish|چاپ
+|relation|ارتباط
+|release|آزاد
+|bird|پرنده
+|opinion|نظر
+|credit|اعتبار
+|critical|بحراني
+|corner|گوشه
+|concerned|علاقمند
+|recall|ياد
+|version|نسخه
+|stare|از روي تعجب و يا ترس نگاه
+|safety|ايمني
+|effective|موثر
+|neighborhood|همسايگي
+|original|اصلي
+|troop|دسته
+|income|درامد
+|directly|مستقيما
+|hurt|صدمه
+|species|گونه
+|immediately|بلافاصله
+|track|مسير
+|basic|اساسي
+|strike|اعتصاب
+|sky|آسمان
+|freedom|ازادي
+|absolutely|کاملا
+|plane|هواپيما
+|nobody|هيچ کس
+|achieve|رسيدن
+|object|هدف
+|attitude|گرايش
+|labor|کار
+|refer|اشاره
+|concept|مفهوم
+|client|مشتري
+|powerful|قوي
+|perfect|کامل
+|nine|نه نفر
+|therefore|از اين رو 
+|conduct|رفتار
+|announce|اعلام
+|conversation|گفتگو
+|examine|بررسي
+|touch|لمس
+|please|لطفا
+|attend|حضور
+|completely|به طور کامل 
+|variety|تنوع
+|sleep|خواب
+|involved|گرفتار
+|investigation|تحقيق
+|nuclear|اتمي
+|researcher|پژوهشگر
+|press|فشار
+|conflict|تضاد
+|spirit|روح
+|replace|جايگزين کردن
+|British|انگليسي
+|encourage|تشويق
+|argument|استدلال
+|camp|اردوگاه
+|brain|مغز
+|feature|خصيصه
+|afternoon|بعد از ظهر 
+|AM|AM
+|weekend|اخر هفته
+|dozen|دوجين
+|possibility|احتمال
+|insurance|بيمه
+|department|بخش
+|battle|نبرد
+|beginning|شروع
+|date|تاريخ
+|generally|عموما
+|African|افريقايي
+|sorry|متاسف
+|crisis|بحران
+|complete|کامل
+|fan|پنکه
+|stick|چوب
+|define|تعريف
+|easily|به آساني
+|hole|سوراخ
+|element|عنصر
+|vision|ديد
+|status|وضعيت
+|normal|طبيعي
+|Chinese|چيني
+|ship|کشتي
+|solution|راه حل
+|stone|سنگ
+|slowly|به آرامي
+|scale|مقياس
+|university|دانشگاه
+|introduce|معرفي
+|driver|راننده
+|attempt|کوشش
+|park|پارک
+|spot|نقطه
+|lack|عدم
+|ice|يخ
+|boat|قايق
+|drink|نوشيدن
+|sun|خورشيد
+|distance|فاصله
+|wood|چوب
+|handle|دسته
+|truck|کاميون
+|mountain|کوه
+|survey|بررسي
+|supposed|مفروض
+|tradition|سنت
+|winter|زمستان
+|village|دهکده
+|Soviet|شوروي
+|refuse|رد کردن
+|sales|فروش
+|roll|چرخش
+|communication|ارتباط
+|screen|پرده
+|gain|سود
+|resident|اقامت
+|hide|پنهان کردن
+|gold|طلا
+|club|باشگاه
+|farm|مزرعه
+|potential|پتانسيل
+|European|اروپايي
+|presence|حضور
+|independent|مستقل
+|district|ناحيه
+|shape|شکل
+|reader|خواننده
+|Ms|خانم
+|contract|قرارداد
+|crowd|جمعيت
+|Christian|مسيحي
+|express|سريع السير
+|apartment|اپارتمان
+|willing|حاضر
+|strength|استحکام
+|previous|قبلي
+|band|باند
+|obviously|بديهي است
+|horse|اسب
+|interested|علاقمند
+|target|هدف
+|prison|زندان
+|ride|سوار شدن
+|guard|نگهبان
+|terms|قوانين و مقررات 
+|demand|تقاضا
+|reporter|خبرنگار
+|deliver|ارائه
+|text|متن
+|tool|ابزار
+|wild|وحشي
+|vehicle|وسيله نقليه
+|observe|مشاهده
+|flight|پرواز
+|facility|امکان
+|understanding|درک
+|average|متوسط
+|emerge|پديدار شدن
+|advantage|مزيت
+|quick|سريع
+|leadership|رهبري
+|earn|کسب درآمد
+|pound|پوند
+|basis|اساس
+|bright|روشن
+|operate|عمل
+|guest|مهمان
+|sample|نمونه
+|contribute|کمک
+|tiny|کوچک
+|block|مسدود کردن
+|protection|حفاظت
+|settle|واريز
+|feed|خوراک
+|collect|جمع کردن
+|additional|اضافي
+|highly|خيلي
+|identity|هويت
+|title|عنوان
+|mostly|غالبا
+|lesson|درس
+|faith|ايمان
+|river|رودخانه
+|promote|ترويج
+|living|زندگي
+|count|شمار
+|unless|مگر
+|marry|ازدواج کردن
+|tomorrow|فردا
+|technique|تکنيک
+|path|مسير
+|ear|گوش
+|shop|فروشگاه
+|folk|مردم
+|principle|اصل
+|survive|زنده ماندن
+|lift|بلند کردن
+|border|مرز
+|competition|رقابت
+|jump|پرش
+|gather|جمع کردن
+|limit|محدود کردن
+|fit|مناسب
+|cry|گريه
+|equipment|تجهيزات
+|worth|با ارزش
+|associate|وابسته
+|critic|نقاد
+|warm|گرم
+|aspect|منظر
+|insist|اصرار
+|failure|شکست
+|annual|ساليانه
+|French|زبان فرانسه
+|Christmas|کريسمس
+|comment|توضيح
+|responsible|مسئوليت
+|affair|امر
+|procedure|روش
+|regular|منظم
+|spread|گسترش
+|chairman|رئيس
+|baseball|بازي بيس بال 
+|soft|نرم
+|ignore|چشم پوشي از 
+|egg|تخم مرغ
+|belief|باور
+|demonstrate|نشان دادن
+|anybody|کسي
+|murder|قتل
+|gift|هديه
+|religion|دين
+|review|اين فايل نقد مي نويسيد:  
+|editor|ويرايشگر
+|engage|تعامل با
+|coffee|قهوه
+|document|سند
+|speed|سرعت
+|cross|صليب
+|influence|نفوذ
+|anyway|در هر صورت 
+|threaten|تهديد
+|commit|ارتکاب
+|female|زن
+|youth|جوانان
+|wave|موج
+|afraid|ترسيده
+|quarter|ربع
+|background|زمينه
+|native|محلي
+|broad|پهن
+|wonderful|شگفت انگيز
+|deny|رد کردن
+|apparently|ظاهرا
+|slightly|کمي
+|reaction|واکنش
+|twice|دو برابر
+|suit|دادخواست
+|perspective|چشم انداز
+|growing|در حال رشد 
+|blow|فوت
+|construction|ساخت
+|intelligence|هوش
+|destroy|از بين بردن 
+|cook|پختن
+|connection|ارتباط
+|burn|سوختگي
+|shoe|کفش
+|grade|درجه
+|context|زمينه
+|committee|کميسيون
+|hey|هي
+|mistake|اشتباه
+|location|محل
+|clothes|لباس
+|Indian|هندي
+|quiet|ساکت
+|dress|لباس
+|promise|وعده
+|aware|مطلع
+|neighbor|همسايه
+|function|تابع
+|bone|استخوان
+|active|فعال
+|extend|گسترش
+|chief|رئيس
+|combine|ترکيب کردن
+|wine|شراب
+|below|در زير
+|cool|سرد
+|voter|راي دهنده
+|learning|يادگيري
+|bus|اتوبوس
+|hell|جهنم
+|dangerous|خطر ناک
+|remind|يادآوري
+|moral|اخلاقي
+|United|متحد
+|category|رده
+|relatively|نسبتا
+|victory|پيروزي
+|academic|دانشگاهي
+|Internet|اينترنت
+|healthy|سالم
+|negative|منفي
+|following|متعاقب
+|historical|تاريخي
+|medicine|پزشکي
+|tour|سفر
+|depend|بستگي دارد
+|photo|عکس
+|finding|کشف
+|grab|گرفتن
+|direct|مستقيم
+|classroom|کلاس درس
+|contact|تماس
+|justice|عدالت
+|participate|شرکت کردن
+|daily|روزانه
+|fair|منصفانه
+|pair|جفت
+|famous|معروف
+|exercise|ورزش
+|knee|زانو
+|flower|گل
+|tape|نوار
+|hire|اجاره
+|familiar|مانوس
+|appropriate|مناسب
+|supply|عرضه
+|fully|کاملا
+|actor|بازيگر
+|birth|تولد
+|search|جستجو
+|tie|کراوات
+|democracy|دموکراسي
+|eastern|شرقي
+|primary|اوليه
+|yesterday|ديروز
+|circle|دايره
+|device|دستگاه
+|progress|پيشرفت
+|bottom|پايين
+|island|جزيره
+|exchange|مبادله
+|clean|تميز کردن
+|studio|کارگاه
+|train|قطار
+|lady|خانم
+|colleague|همکار
+|application|کاربرد
+|neck|گردن
+|lean|خم
+|damage|خسارت
+|plastic|پلاستيک
+|tall|بلند
+|plate|صفحه
+|hate|نفرت
+|otherwise|وگرنه
+|writing|نوشته
+|male|مردانه
+|alive|زنده
+|expression|بيان
+|football|فوتبال
+|intend|قصد
+|chicken|جوجه
+|army|ارتش
+|abuse|سوء استفاده
+|theater|تئاتر
+|shut|بسته
+|map|نقشه
+|extra|اضافي
+|session|جلسه
+|danger|خطر
+|welcome|خوش آمد
+|domestic|خانگي
+|lots|بسيار
+|literature|ادبيات
+|rain|باران
+|desire|ميل
+|assessment|ارزيابي
+|injury|صدمه
+|respect|احترام
+|northern|شمالي
+|nod|سرتکان دادن
+|paint|رنگ
+|fuel|سوخت
+|leaf|برگ
+|dry|خشک
+|Russian|روسي
+|instruction|دستور العمل
+|pool|استخر
+|climb|بالا رفتن
+|sweet|شيرين
+|engine|موتور
+|fourth|چهارم
+|salt|نمک
+|expand|گسترش
+|importance|اهميت
+|metal|فلز
+|fat|چربي
+|ticket|بليط
+|software|نرمافزار
+|disappear|ناپديد شدن
+|corporate|شرکت ها
+|strange|عجيب
+|lip|لب
+|reading|مطالعه
+|urban|شهري
+|mental|رواني
+|increasingly|به طور فزاينده 
+|lunch|ناهار
+|educational|آموزشي
+|somewhere|يک جايي
+|farmer|کشاورز
+|sugar|قند
+|planet|سياره
+|favorite|محبوب
+|explore|اکتشاف کردن
+|obtain|گرفتن
+|enemy|دشمن
+|greatest|بزرگترين
+|complex|پيچيده
+|surround|احاطه
+|athlete|ورزشکار
+|invite|دعوت کردن
+|repeat|تکرار
+|carefully|بدقت
+|soul|روح
+|scientific|علمي
+|impossible|غير ممکن
+|panel|تابلو
+|meaning|معني
+|mom|مادر
+|married|متاهل
+|instrument|سند
+|predict|پيش بيني
+|weather|هوا
+|presidential|رياست جمهوري
+|emotional|عاطفي
+|commitment|تعهد
+|Supreme|عالي
+|bear|تحمل
+|pocket|جيب
+|thin|نازک
+|temperature|درجه حرارت
+|surprise|تعجب
+|poll|راي
+|proposal|پيشنهاد
+|consequence|نتيجه
+|breath|نفس
+|sight|نظر
+|balance|تعادل
+|adopt|اتخاذ
+|minority|اقليت
+|straight|مستقيم
+|connect|اتصال
+|works|کار مي کند 
+|teaching|آموزش
+|belong|تعلق
+|aid|کمک
+|advice|نصيحت
+|okay|خوب
+|photograph|عکس
+|empty|خالي
+|regional|منطقهاي
+|trail|دنباله
+|novel|رمان
+|code|قانون
+|somehow|بطريقي
+|organize|سازمان دادن
+|jury|هيئت منصفه
+|breast|پستان
+|Iraqi|عراقي
+|acknowledge|اذعان
+|theme|موضوع
+|storm|طوفان
+|union|اتحاديه
+|desk|ميز
+|thanks|تشکر
+|fruit|ميوه
+|expensive|گران
+|yellow|زرد
+|conclusion|نتيجه
+|prime|نخست
+|shadow|سايه
+|struggle|مبارزه
+|conclude|نتيجه گيري
+|analyst|روانکاو
+|dance|رقص
+|regulation|تنظيم
+|being|وجود
+|ring|حلقه
+|largely|تا حد زيادي 
+|shift|تغيير
+|revenue|درامد
+|mark|علامت
+|locate|قرار دادن
+|county|شهرستان
+|appearance|ظاهر
+|package|بسته
+|difficulty|مشکل
+|bridge|پل
+|recommend|توصيه
+|obvious|واضح
+|basically|بطور اساسي
+|e-mail|ايميل
+|generate|توليد
+|anymore|ديگر
+|propose|پيشنهاد
+|thinking|تفکر
+|possibly|احتمالا
+|trend|گرايش
+|visitor|مهمان
+|loan|وام
+|currently|در حال حاضر 
+|comfortable|راحت
+|investor|سرمايه گذار
+|profit|سود
+|angry|خشمگين
+|crew|خدمه
+|accident|تصادف
+|meal|غذا
+|hearing|شنوايي
+|traffic|ترافيک
+|muscle|عضله
+|notion|مفهوم
+|capture|گرفتن
+|prefer|ترجيح مي دهم 
+|truly|صادقانه
+|earth|زمين
+|Japanese|ژاپني
+|chest|قفسه سينه
+|thick|ضخيم
+|cash|پول نقد
+|museum|موزه
+|beauty|زيبايي
+|emergency|اورژانس
+|unique|منحصر به فرد 
+|internal|داخلي
+|ethnic|قومي
+|link|پيوند
+|stress|فشار
+|content|مقدار
+|select|را انتخاب کنيد 
+|root|ريشه
+|nose|بيني
+|declare|اعلام
+|appreciate|قدرداني
+|actual|واقعي
+|bottle|بطري
+|hardly|به سختي
+|setting|زمينه
+|launch|انداختن
+|file|پرونده
+|sick|بيمار
+|outcome|نتيجه
+|ad|آگهي
+|defend|دفاع
+|duty|وظيفه
+|sheet|ورق
+|ought|بايد
+|ensure|اطمينان از
+|Catholic|کاتوليک
+|extremely|خيلي
+|extent|حد
+|component|جزء
+|mix|مخلوط
+|long-term|دراز مدت
+|slow|کند
+|contrast|کنتراست
+|zone|منطقه
+|wake|بيداري
+|airport|فرودگاه
+|brown|قهوهاي
+|shirt|پيراهن
+|pilot|خلبان
+|warn|هشدار دادن
+|ultimately|در نهايت
+|cat|گربه
+|contribution|سهم
+|capacity|ظرفيت
+|ourselves|خودمان
+|estate|املاک
+|guide|راهنمايي
+|circumstance|چگونگي
+|snow|برف
+|English|انگليسي
+|politician|سياستمدار
+|steal|سرقت
+|pursue|دنبال کردن
+|slip|لغزش
+|percentage|در صد
+|meat|گوشت
+|funny|خنده دار
+|neither|هيچ يک
+|soil|خاک
+|surgery|عمل جراحي
+|correct|اصلاح
+|Jewish|يهودي
+|blame|سرزنش
+|estimate|تخمين
+|due|ناشي از
+|basketball|بازي بسکتبال
+|golf|گلف
+|investigate|بررسي
+|crazy|ديوانه
+|significantly|به طور قابل توجهي
+|chain|زنجير
+|branch|شاخه
+|combination|ترکيب
+|frequently|غالبا
+|governor|فرماندار
+|relief|تسکين
+|user|کاربر
+|dad|پدر
+|kick|پا زدن
+|manner|روش
+|ancient|کهن
+|silence|سکوت
+|rating|رتبه
+|golden|طلايي
+|motion|حرکت
+|German|آلماني
+|gender|جنس
+|solve|حل کردن
+|fee|پرداخت
+|landscape|چشم انداز
+|used|مورد استفاده قرار 
+|bowl|کاسه
+|equal|برابر
+|forth|جلو
+|frame|قاب
+|typical|نوعي
+|except|جز
+|conservative|محافظه کار
+|eliminate|حذف
+|host|ميزبان
+|hall|سالن
+|trust|اعتماد
+|ocean|اقيانوس
+|row|رديف
+|producer|توليد کننده
+|afford|استطاعت
+|meanwhile|در ضمن
+|regime|رژيم
+|division|تقسيم
+|confirm|تاييد
+|fix|تعمير
+|appeal|استيناف
+|mirror|اينه
+|tooth|دندان
+|smart|زرنگ
+|length|طول
+|entirely|کاملا
+|rely|تکيه
+|topic|موضوع
+|complain|شکايت
+|variable|متغير
+|telephone|تلفن
+|perception|ادراک
+|attract|جذب
+|confidence|اعتماد
+|bedroom|اطاق خواب
+|secret|مخفي
+|debt|بدهي
+|rare|نادر
+|tank|مخزن
+|nurse|پرستار
+|coverage|پوشش
+|opposition|مخالفت
+|aside|گذشته از
+|anywhere|هر جا
+|bond|اوراق قرضه
+|pleasure|لذت
+|master|استاد
+|era|عصر
+|requirement|نياز
+|fun|سرگرمي
+|expectation|انتظار
+|wing|بال
+|separate|جداگانه
+|somewhat|قدري
+|pour|ريختن
+|stir|بهم زدن
+|judgment|داوري
+|beer|آبجو
+|reference|ارجاع
+|tear|پارگي
+|doubt|شک
+|grant|اعطاي
+|seriously|به طور جدي 
+|minister|وزير
+|totally|کاملا
+|hero|قهرمان
+|industrial|صنعتي
+|cloud|ابر
+|stretch|بسط
+|winner|برنده
+|volume|حجم
+|seed|دانه
+|surprised|متعجب
+|fashion|روش
+|pepper|فلفل
+|busy|مشغول
+|intervention|مداخله
+|copy|کپي
+|tip|نوک
+|cheap|ارزان
+|aim|هدف
+|cite|گفتن
+|welfare|رفاه
+|vegetable|سبزي
+|gray|خاکستري
+|dish|ظرف
+|beach|ساحل
+|improvement|بهبود
+|everywhere|در همه جا 
+|opening|افتتاح
+|overall|به طور کلي 
+|divide|تقسيم کردن
+|initial|اول
+|terrible|وحشتناک
+|oppose|مخالفت
+|contemporary|معاصر
+|route|مسير
+|multiple|چندگانه
+|essential|ضروري
+|league|اتحاديه
+|criminal|جنايي
+|careful|دقيق
+|core|هسته
+|upper|بالا
+|rush|حمله
+|necessarily|لزوما
+|specifically|به طور خاص 
+|tired|خسته
+|employ|شغل
+|holiday|روز تعطيل
+|vast|وسيع
+|resolution|حل
+|household|خانواده
+|fewer|کمتر
+|abortion|سقط جنين
+|apart|جدا
+|witness|شاهد
+|match|مسابقه
+|barely|به سختي
+|sector|بخش
+|representative|نماينده
+|beneath|در زير
+|beside|در کنار
+|incident|حادثه
+|limited|محدود
+|proud|مغرور
+|flow|جريان
+|faculty|اعضاي هيات علمي 
+|increased|افزايش يافته است 
+|waste|اتلاف
+|merely|تنها
+|mass|جرم
+|emphasize|تاکيد
+|experiment|تجربه
+|definitely|قطعا
+|bomb|بمب
+|enormous|عظيم
+|tone|لحن
+|liberal|ليبرال
+|massive|عظيم
+|engineer|مهندس
+|wheel|چرخ
+|decline|کاهش
+|invest|سرمايه گذاري
+|cable|کابل
+|towards|طرف
+|expose|افشاي
+|rural|روستايي
+|AIDS|ايدز
+|Jew|يهودي
+|narrow|باريک
+|cream|کرم
+|secretary|دبير
+|gate|دروازه
+|solid|جامد
+|hill|تپه
+|typically|به طور معمول 
+|noise|سر و صدا 
+|grass|چمن
+|unfortunately|متاسفانه
+|hat|کلاه
+|legislation|قانون
+|succeed|موفق شدن
+|celebrate|جشن گرفتن
+|achievement|موفقيت
+|fishing|ماهيگيري
+|accuse|متهم کردن
+|useful|مفيد
+|reject|رد کردن
+|talent|استعداد
+|taste|طعم
+|characteristic|مشخصه
+|milk|شير
+|escape|فرار
+|cast|قالب
+|sentence|جمله
+|unusual|غير عادي
+|closely|نزديک
+|convince|متقاعد کردن
+|height|ارتفاع
+|physician|پزشک
+|assess|ارزيابي
+|plenty|فراوان
+|virtually|تقريبا
+|addition|اضافه
+|sharp|تيز
+|creative|خالق
+|lower|کاهش
+|approve|تاييد
+|explanation|توضيح
+|gay|همجنسگرا
+|campus|دانشگاه
+|proper|مناسب
+|guilty|گناهکار
+|acquire|دست آوردن
+|compete|رقابت کردن
+|technical|فني
+|plus|بعلاوه
+|immigrant|مهاجر
+|weak|ضعيف
+|illegal|غير قانوني
+|hi|سلام
+|alternative|ديگر
+|interaction|فعل و انفعال 
+|column|ستون
+|personality|شخصيت
+|signal|سيگنال
+|curriculum|برنامه تحصيلي
+|honor|افتخار
+|passenger|مسافر
+|assistance|کمک
+|forever|براي هميشه
+|regard|نظر
+|Israeli|اسرائيل
+|association|انجمن
+|twenty|بيست
+|knock|بد گويي کردن از
+|wrap|بسته بندي
+|lab|ازمايشگاه
+|display|نمايش
+|criticism|انتقاد
+|asset|دارايي
+|depression|افسردگي
+|spiritual|روحاني
+|musical|موسيقي
+|journalist|روزنامه نگار
+|prayer|نماز
+|suspect|مشکوک
+|scholar|محقق
+|warning|هشدار
+|climate|اقليم
+|cheese|پنير
+|observation|مشاهده
+|childhood|کودکي
+|payment|پرداخت
+|sir|آقا
+|permit|اجازه
+|cigarette|سيگار
+|definition|تعريف
+|priority|اولويت
+|bread|نان
+|creation|ايجاد
+|graduate|فارغ التحصيل
+|request|درخواست
+|emotion|هيجاني
+|scream|فرياد
+|dramatic|نمايشي
+|universe|جهان
+|gap|شکاف
+|excellent|عالي
+|deeply|عميقا
+|prosecutor|مدعي
+|lucky|خوش شانس
+|drag|کشيدن
+|airline|شرکت هواپيمايي
+|library|کتابخانه
+|agenda|دستور کار
+|recover|بهبود يافتن
+|factory|کارخانه
+|selection|انتخاب
+|primarily|در درجه اول 
+|roof|سقف
+|unable|ناتوان
+|expense|هزينه
+|initiative|ابتکار
+|diet|غذا
+|arrest|بازداشت
+|funding|بودجه
+|therapy|درمان
+|wash|شستن
+|schedule|برنامه
+|sad|غمگين
+|brief|مختصر
+|housing|مسکن
+|post|پست
+|purchase|خريد
+|existing|موجود
+|steel|فولاد
+|regarding|راجع به
+|shout|فرياد
+|remaining|باقي مانده
+|visual|بصري
+|fairly|منصفانه
+|chip|تراشه
+|violent|شديد
+|silent|خاموش
+|suppose|فرض کنيد
+|self|خود
+|bike|دوچرخه
+|tea|چاي
+|perceive|درک کردن
+|comparison|مقايسه
+|settlement|توافق
+|layer|لايه
+|planning|برنامه ريزي
+|description|تعريف
+|slide|لغزش
+|widely|به طور گسترده اي
+|wedding|عروسي
+|inform|اطلاع دادن
+|portion|بخش
+|territory|قلمرو
+|immediate|فوري
+|opponent|حريف
+|abandon|رها کردن
+|lake|درياچه
+|transform|تبديل کردن
+|tension|تنش
+|leading|برجسته
+|bother|زحمت دادن
+|consist|شامل
+|alcohol|الکل
+|enable|قادر ساختن
+|bend|خم
+|saving|پس انداز
+|desert|بيابان
+|shall|بايد
+|error|خطا
+|cop|پليس
+|Arab|عرب
+|double|دو برابر
+|sand|شن
+|Spanish|اسپانيايي
+|print|چاپ
+|preserve|شکارگاه
+|passage|عبور
+|formal|رسمي
+|transition|انتقال
+|existence|وجود
+|album|البوم
+|participation|مشارکت
+|arrange|ترتيب دادن
+|atmosphere|جو
+|joint|مشترک
+|reply|پاسخ
+|cycle|چرخه
+|opposite|مقابل
+|lock|قفل
+|deserve|سزاوار
+|consistent|استوار
+|resistance|مقاومت
+|discovery|کشف
+|exposure|ارائه
+|pose|ژست گرفتن
+|stream|جريان
+|sale|فروش
+|pot|گلدان
+|grand|بزرگ
+|mine|مال من
+|hello|سلام
+|coalition|ائتلاف
+|tale|داستان
+|knife|چاقو
+|resolve|تصميم
+|racial|نژادي
+|phase|فاز
+|joke|شوخي
+|coat|کت
+|Mexican|مکزيکي
+|symptom|علامت
+|manufacturer|سازنده
+|philosophy|فلسفه
+|potato|سيب زميني
+|foundation|پايه
+|quote|نقل قول کردن 
+|online|آنلاين
+|negotiation|مذاکره
+|urge|مصرانه از
+|occasion|فرصت
+|dust|گرد و خاک 
+|breathe|نفس کشيدن
+|elect|منتخب
+|investigator|محقق
+|jacket|ژاکت
+|glad|خوشحال
+|ordinary|معمولي
+|reduction|کاهش
+|rarely|بندرت
+|pack|بسته
+|suicide|خود کشي
+|numerous|متعدد
+|substance|ماده
+|discipline|نظم
+|elsewhere|در جاي ديگر 
+|iron|اتو
+|practical|عملي
+|moreover|علاوه بر اين 
+|passion|شور
+|volunteer|داوطلب
+|implement|انجام
+|essentially|اساسا
+|gene|ژن
+|enforcement|اجراي
+|vs|انتظار: کاهش از 
+|sauce|رب
+|independence|استقلال
+|marketing|بازار يابي
+|priest|کشيش
+|amazing|شگفت انگيز
+|intense|شديد
+|advance|پيشرفت
+|employer|کارفرما
+|shock|تکان
+|inspire|الهام بخشيدن
+|adjust|تنظيم کردن
+|retire|بازنشسته
+|visible|قابل رويت
+|kiss|بوسه
+|illness|بيماري
+|cap|کلاه
+|habit|عادت
+|competitive|رقابتي
+|juice|آبميوه
+|congressional|مربوط به کنگره 
+|involvement|درگيري
+|dominate|تسلط
+|previously|سابقا
+|whenever|هر زمان که 
+|transfer|انتقال
+|analyze|تجزيه و تحليل 
+|attach|ضميمه کردن
+|disaster|فاجعه
+|parking|پارکينگ
+|prospect|چشم انداز
+|boss|رئيس
+|complaint|شکايت
+|championship|قهرماني
+|fundamental|اساسي
+|severe|شديد
+|enhance|بالا بردن
+|mystery|راز
+|impose|تحميل کردن
+|poverty|فقر
+|entry|ورود
+|spending|صرف
+|king|پادشاه
+|evaluate|ارزيابي
+|symbol|نماد
+|maker|سازنده
+|mood|حالت
+|accomplish|انجام دادن
+|emphasis|تاکيد
+|illustrate|نشان دادن
+|boot|بوت
+|monitor|نظارت بر
+|Asian|آسيايي
+|entertainment|سرگرمي
+|bean|لوبيا
+|evaluation|ارزيابي
+|creature|موجود
+|commander|فرمانده
+|digital|ديجيتال
+|arrangement|ترتيب
+|concentrate|متمرکز کردن
+|usual|معمول
+|anger|خشم
+|psychological|رواني
+|heavily|به شدت
+|peak|قله
+|approximately|تقريبا
+|increasing|افزايش
+|disorder|اختلال
+|missile|موشک
+|equally|به همان اندازه 
+|vary|متفاوت باشد
+|wire|سيم
+|round|دور
+|distribution|توزيع
+|transportation|حمل و نقل 
+|holy|مقدس
+|twin|دوقلو
+|command|فرمان
+|commission|کميسيون
+|interpretation|تفسير
+|breakfast|صبحانه
+|strongly|قويا
+|engineering|مهندسي
+|luck|شانس
+|so-called|باصطلاح
+|constant|ثابت
+|clinic|درمانگاه
+|veteran|کهنه سرباز
+|smell|بو
+|tablespoon|قاشق سوپخوري
+|capable|توانا
+|nervous|عصبي
+|tourist|توريست
+|toss|پرتاب
+|crucial|بسيار سخت
+|bury|دفن کردن
+|pray|دعا کردن
+|tomato|گوجه فرنگي
+|exception|استثنا
+|butter|کره
+|deficit|کمبود
+|bathroom|حمام
+|objective|هدف
+|electronic|الکترونيکي
+|ally|دوست
+|journey|سفر
+|reputation|شهرت
+|mixture|مخلوط
+|surely|مسلما
+|tower|برج
+|smoke|دود
+|confront|روبرو شدن با 
+|pure|خالص
+|glance|نگاه
+|dimension|بعد
+|toy|اسباب بازي
+|prisoner|زنداني
+|fellow|شخص
+|smooth|صاف
+|nearby|نزديک
+|peer|همکار
+|designer|طراح
+|personnel|پرسنل
+|educator|مربي
+|relative|نسبي
+|immigration|مهاجرت
+|belt|کمربند
+|teaspoon|قاشق چاي خوري 
+|birthday|جشن تولد
+|implication|مفهوم
+|perfectly|کاملا
+|coast|ساحل
+|supporter|حامي
+|accompany|همراهي کردن
+|silver|نقره
+|teenager|نوجوان
+|recognition|به رسميت شناختن 
+|retirement|بازنشستگي
+|flag|پرچم
+|recovery|بهبود
+|whisper|نجوا
+|gentleman|آقا
+|corn|ذرت
+|moon|ماه
+|inner|داخلي
+|junior|تازهتر
+|throat|گلو
+|salary|حقوق
+|swing|نوسان
+|observer|مشاهده کننده
+|publication|انتشار
+|crop|محصول
+|dig|حفاري
+|permanent|دائمي
+|phenomenon|پديده
+|anxiety|اضطراب
+|unlike|برخلاف
+|wet|مرطوب
+|literally|عينا
+|resist|مقاومت در برابر 
+|convention|قرارداد
+|embrace|پذيرفتن
+|assist|کمک کردن
+|exhibition|نمايشگاه
+|construct|ساختن
+|viewer|بيننده
+|pan|ماهي تابه
+|consultant|مشاور
+|administrator|مدير
+|occasionally|گاه و بيگاه 
+|mayor|شهردار
+|consideration|توجه
+|CEO|مدير عامل شرکت 
+|secure|ايمن
+|pink|رنگ صورتي
+|buck|جفتک انداختن
+|historic|تاريخي
+|poem|شعر
+|grandmother|مادر بزرگ
+|bind|اتصال
+|fifth|پنجم
+|constantly|به طور مداوم 
+|enterprise|سرمايه گذاري
+|favor|به نفع
+|testing|تست
+|stomach|معده
+|apparent|ظاهر
+|weigh|وزن کردن
+|install|نصب کردن
+|sensitive|حساس
+|suggestion|پيشنهاد
+|mail|پست
+|recipe|دستور العمل
+|reasonable|معقول
+|preparation|تهيه
+|wooden|چوبي
+|elementary|ابتدايي
+|concert|کنسرت
+|aggressive|مهاجم
+|FALSE|FALSE
+|intention|قصد
+|channel|کانال
+|extreme|بي نهايت
+|tube|لوله
+|drawing|رسم
+|protein|پروتئين
+|quit|ترک
+|absence|فقدان
+|Latin|لاتين
+|rapidly|سريعا
+|jail|زندان
+|diversity|تنوع
+|honest|صادق
+|Palestinian|فلسطيني
+|pace|سرعت
+|employment|استخدام
+|speaker|گوينده
+|impression|احساس
+|essay|مقاله
+|respondent|پاسخ دهنده
+|giant|غول
+|cake|کيک
+|historian|مورخ
+|negotiate|مذاکره کردن
+|restore|بازگرداندن
+|substantial|قابل توجه
+|pop|پاپ
+|specialist|متخصص
+|origin|منشاء
+|approval|تصويب
+|quietly|ملايم
+|advise|توصيه
+|conventional|معمولي
+|depth|عمق
+|wealth|ثروت
+|disability|از کار افتادگي 
+|shell|صدف
+|criticize|انتقاد کردن
+|effectively|به طور موثر 
+|biological|زيستي
+|onion|پياز
+|deputy|قائم مقام
+|flat|صاف
+|brand|مارک
+|assure|اطمينان دادن
+|mad|ديوانه
+|award|جايزه
+|criteria|ضوابط
+|dealer|دلال
+|via|از طريق
+|utility|سودمندي
+|precisely|دقيقا
+|arise|بوجود مي آيند 
+|armed|مسلح
+|nevertheless|با اين وجود 
+|highway|بزرگراه
+|clinical|باليني
+|routine|روزمره
+|wage|دستمزد
+|normally|به طور معمول 
+|phrase|عبارت
+|ingredient|جزء
+|stake|شرط
+|Muslim|مسلمان
+|fiber|فيبر
+|activist|فعال
+|Islamic|اسلامي
+|snap|ضربه محکم و ناگهاني
+|terrorism|تروريسم
+|refugee|مهاجر
+|incorporate|ترکيب کردن
+|hip|مفصل ران
+|ultimate|نهايي
+|switch|تعويض
+|corporation|شرکت
+|valuable|با ارزش
+|assumption|فرض
+|gear|چرخ دنده
+|barrier|مانع
+|minor|خردسال
+|provision|ماده
+|killer|قاتل
+|assign|اختصاص دادن
+|gang|گروه
+|developing|در حال توسعه 
+|classic|کلاسيک
+|chemical|شيميايي
+|label|برچسب
+|teen|نوجوان
+|index|نمايه
+|vacation|مرخصي
+|advocate|مدافع
+|draft|پيش نويس
+|extraordinary|فوق العاده
+|heaven|بهشت
+|rough|خشن
+|yell|فرياد زدن
+|pregnant|حامله
+|distant|دور
+|drama|درام
+|satellite|ماهواره اي
+|personally|شخصا
+|clock|ساعت
+|chocolate|شکلات
+|Italian|ايتاليايي
+|Canadian|کانادايي
+|ceiling|سقف
+|sweep|رفت و برگشت 
+|advertising|تبليغات
+|universal|جهاني
+|spin|چرخش
+|button|دکمه
+|bell|ناقوس
+|rank|رتبه
+|darkness|تيرگي
+|clothing|لباس
+|super|عالي
+|yield|محصول
+|fence|حصار
+|portrait|تصوير
+|survival|بقاء
+|roughly|تقريبا
+|lawsuit|طرح دعوي در دادگاه
+|testimony|شهادت
+|bunch|دسته
+|found|يافت
+|burden|بار
+|react|واکنش نشان دادن 
+|chamber|اتاق
+|furniture|مبل
+|cooperation|همکاري
+|string|رشته
+|ceremony|مراسم
+|communicate|ارتباط
+|cheek|گونه
+|lost|از دست رفته 
+|profile|نيمرخ
+|mechanism|مکانيزم
+|disagree|مخالف
+|penalty|مجازات
+|ie|به عنوان مثال 
+|resort|رفت و آمد مکرر
+|destruction|تخريب
+|unlikely|بعيد
+|tissue|بافت
+|constitutional|مشروطه
+|pant|نفس نفس زدن 
+|stranger|بيگانه
+|infection|عفونت
+|cabinet|کابينه
+|broken|شکسته
+|apple|سيب
+|electric|الکتريکي
+|proceed|ادامه
+|bet|شرط
+|literary|ادبي
+|virus|ويروس
+|stupid|احمق
+|dispute|نزاع
+|fortune|ثروت
+|strategic|استراتژيک
+|assistant|دستيار
+|overcome|غلبه بر
+|remarkable|قابل توجه
+|occupy|اشغال کردن
+|statistics|ارقام
+|shopping|خريد
+|cousin|عمو زاده
+|encounter|برخورد
+|wipe|پاک کردن
+|initially|در ابتدا
+|blind|کور
+|port|درگاه
+|electricity|برق
+|genetic|ژنتيک
+|adviser|مشاور
+|spokesman|سخنگو
+|retain|نگه داشتن
+|latter|دومي
+|incentive|انگيزه
+|slave|برده
+|translate|ترجمه کردن
+|accurate|دقيق
+|whereas|در حاليکه
+|terror|وحشت
+|expansion|توسعه
+|elite|نخبه
+|Olympic|المپيک
+|dirt|خاک
+|odd|عجيب و غريب 
+|rice|برنج
+|bullet|گلوله
+|tight|تنگ
+|Bible|کتاب مقدس
+|chart|نمودار
+|solar|خورشيدي
+|square|مربع
+|concentration|غلظت
+|complicated|بغرنج
+|gently|با ملايمت
+|champion|قهرمان
+|scenario|سناريو
+|telescope|تلسکوپ
+|reflection|انعکاس
+|revolution|انقلاب
+|strip|نوار
+|interpret|تفسير کردن
+|friendly|دوستانه
+|tournament|مسابقه
+|fiction|داستان
+|detect|تشخيص
+|tremendous|عظيم
+|lifetime|عمر
+|recommendation|توصيه
+|senator|عضو مجلس سنا 
+|hunting|صيد
+|salad|سالاد
+|guarantee|ضمانت
+|innocent|بي گناه
+|boundary|مرز
+|pause|توقف
+|remote|دور
+|satisfaction|رضايت
+|journal|روزنامه
+|bench|نيمکت
+|lover|عاشق
+|raw|خام
+|awareness|اگاهي
+|surprising|شگفتي
+|withdraw|برداشت
+|deck|عرشه
+|similarly|به طور مشابه 
+|newly|اخيرا
+|pole|قطب
+|testify|شهادت دادن
+|mode|طرز
+|dialogue|گفتگو
+|imply|حاکي از
+|naturally|به طور طبيعي 
+|mutual|متقابل
+|founder|موسس
+|advanced|پيشرفته
+|pride|غرور
+|dismiss|منفصل کردن
+|aircraft|هواپيما
+|delivery|تحويل
+|mainly|عمدتا
+|bake|پختن
+|freeze|منجمد شدن
+|platform|بستر هاي نرم افزاري
+|finance|سرمايه گذاري
+|sink|غرق شدن
+|attractive|جالب
+|diverse|متنوع
+|relevant|مربوط
+|ideal|دلخواه
+|joy|لذت
+|regularly|به طور منظم 
+|working|کارگر
+|singer|خواننده
+|evolve|در اوردن
+|shooting|تيراندازي
+|partly|نسبتا
+|unknown|ناشناخته
+|offense|حمله
+|counter|مقابله با
+|DNA|DNA
+|potentially|به طور بالقوه 
+|thirty|سي
+|justify|توجيه کردن
+|protest|اعتراض
+|crash|سقوط
+|craft|سادگي
+|treaty|پيمان
+|terrorist|تروريستي
+|insight|بينش
+|possess|داشتن
+|politically|سياسي
+|tap|شير
+|extensive|وسيع
+|episode|قسمت
+|swim|شنا
+|tire|لاستيک
+|fault|تقصير
+|loose|شل
+|shortly|به زودي
+|originally|در اصل
+|considerable|قابل توجه
+|prior|قبلي
+|intellectual|فکري
+|assault|حمله
+|relax|شل کردن
+|stair|پله
+|adventure|ماجرا
+|external|خارجي
+|proof|اثبات
+|confident|مطمئن
+|headquarters|مرکز فرماندهي
+|sudden|ناگهاني
+|dirty|کثيف
+|violation|نقض
+|tongue|زبان
+|license|پروانه
+|shelter|پناه
+|rub|ماليدن
+|controversy|جدال
+|entrance|ورود
+|properly|به درستي
+|fade|محو شدن
+|defensive|دفاعي
+|tragedy|تراژدي
+|net|خالص
+|characterize|مشخص کردن
+|funeral|مراسم تشييع جنازه 
+|profession|حرفه
+|alter|تغيير دادن
+|constitute|را تشکيل مي دهند
+|establishment|استقرار
+|squeeze|فشار
+|imagination|تخيل
+|mask|ماسک
+|convert|تبديل
+|comprehensive|جامع
+|prominent|برجسته
+|presentation|ارائه
+|regardless|بدون در نظر گرفتن
+|load|بار
+|stable|پايدار
+|introduction|معرفي
+|pretend|وانمود کردن
+|elderly|مسن
+|representation|نمايندگي
+|deer|گوزن
+|split|انشعاب
+|violate|شکستن
+|partnership|مشارکت
+|pollution|آلودگي
+|emission|نشر
+|steady|ثابت
+|vital|حياتي
+|fate|سرنوشت
+|earnings|درامد
+|oven|فر
+|distinction|فرق
+|segment|بخش
+|nowhere|هيچ جا
+|poet|شاعر
+|mere|محض
+|exciting|مهيج
+|variation|تغيير
+|comfort|راحت
+|radical|راديکال
+|adapt|وفق دادن
+|Irish|ايرلندي
+|honey|عسل
+|correspondent|خبرنگار
+|pale|رنگ پريده
+|musician|نوازنده
+|significance|اهميت
+|vessel|رگ
+|storage|ذخيره سازي
+|flee|گريختن
+|mm-hmm|MM- HMM
+|leather|چرم
+|distribute|پخش کردن
+|evolution|تکامل
+|ill|بيمار
+|tribe|قبيله
+|shelf|فلات قاره
+|grandfather|پدر بزرگ
+|lawn|چمن
+|buyer|خريدار
+|dining|ناهار خوري
+|wisdom|خرد
+|council|شورا
+|vulnerable|اسيب پذير
+|instance|مثال
+|garlic|سير
+|capability|قابليت
+|poetry|شعر
+|celebrity|شهرت
+|gradually|بتدريج
+|stability|ثبات
+|fantasy|فانتزي
+|scared|ترس
+|plot|طرح
+|framework|چارچوب
+|gesture|ژست
+|depending|بسته
+|ongoing|مداوم
+|psychology|روان شناسي
+|counselor|مشاور
+|chapter|فصل
+|divorce|طلاق
+|owe|دارا بودن
+|pipe|لوله
+|athletic|ورزشي
+|slight|اندک
+|math|رياضي
+|shade|سايه
+|tail|دم
+|sustain|نگه داشتن
+|mount|سوار
+|obligation|تعهد
+|angle|زاويه
+|palm|نخل
+|differ|متفاوت
+|custom|رسم
+|economist|متخصص اقتصاد
+|fifteen|پانزده
+|soup|سوپ
+|celebration|جشن
+|efficient|موثر
+|composition|ترکيب
+|satisfy|راضي کردن
+|pile|شمع
+|briefly|بطور خلاصه
+|carbon|کربن
+|closer|نزديک
+|consume|مصرف
+|scheme|طرح
+|crack|ترک
+|frequency|فرکانس
+|tobacco|تنباکو
+|survivor|بازمانده
+|besides|در کنار
+|psychologist|روانشناس
+|wealthy|ثروتمند
+|galaxy|کهکشان
+|given|داده
+|ski|اسکي
+|limitation|محدوديت
+|trace|رد
+|appointment|انتصاب
+|preference|اولويت
+|meter|متر
+|explosion|انفجار
+|publicly|عموم
+|incredible|باور نکردني
+|fighter|جنگنده
+|rapid|سريع
+|admission|پذيرش
+|hunter|شکارچي
+|educate|آموزش
+|painful|دردناک
+|friendship|دوستي
+|aide|بردست
+|infant|کودک
+|calculate|محاسبه
+|fifty|پنجاه
+|rid|خلاص شدن از شر
+|porch|ايوان
+|tendency|گرايش
+|uniform|يکسان
+|formation|تشکيل
+|scholarship|دانش
+|reservation|ذخيره
+|efficiency|بهره وري
+|qualify|واجد شرايط شدن 
+|mall|مرکز خريد
+|derive|نتيجه گرفتن
+|scandal|رسوايي
+|PC|کامپيوتر
+|helpful|مفيد
+|impress|تحت تاثير قرار دادن
+|heel|پاشنه
+|resemble|شبيه
+|privacy|خلوت
+|fabric|پارچه
+|contest|مسابقه
+|proportion|نسبت
+|guideline|راهنما
+|rifle|تفنگ
+|maintenance|نگهداري
+|conviction|عقيده
+|trick|فوت و فن 
+|organic|عضوي
+|tent|چادر
+|examination|امتحان
+|publisher|ناشر
+|strengthen|تقويت
+|proposed|مطرح
+|myth|اسطوره
+|sophisticated|پيچيده
+|cow|گاو
+|etc|و غيره
+|standing|ايستاده
+|asleep|خوابيده
+|tennis|تنيس
+|nerve|عصب
+|barrel|بشکه
+|bombing|بمب گذاري در 
+|membership|عضويت
+|ratio|نسبت
+|menu|منو
+|controversial|بحث برانگيز
+|desperate|از جان گذشته 
+|lifestyle|شيوه زندگي
+|humor|شوخي
+|loud|با صداي بلند 
+|glove|دستکش
+|sufficient|کافي
+|narrative|روايت
+|photographer|عکاس
+|helicopter|هلي کوپتر
+|modest|فروتن
+|provider|ارائه دهنده
+|delay|تاخير
+|agricultural|کشاورزي
+|explode|منفجر شدن
+|stroke|ضربه
+|scope|حوزه
+|punishment|مجازات
+|handful|مشت
+|badly|بد
+|horizon|افق
+|curious|کنجکاو
+|downtown|قسمت مرکزي شهر 
+|girlfriend|دوست دختر
+|prompt|بي درنگ
+|cholesterol|کلسترول
+|absorb|جذب کردن
+|adjustment|تنظيم
+|taxpayer|ماليات دهنده
+|eager|مشتاق
+|principal|اصلي
+|detailed|دقيق
+|motivation|انگيزه
+|assignment|واگذاري
+|restriction|محدوديت
+|laboratory|لابراتوار
+|workshop|کارگاه
+|differently|بطور متفاوت
+|auto|خودکار
+|romantic|عاشقانه
+|cotton|پنبه
+|motor|موتور
+|sue|تعقيب کردن
+|flavor|طعم
+|overlook|چشم پوشي کردن 
+|float|شناور
+|undergo|تحت
+|sequence|دنباله
+|demonstration|تظاهرات
+|jet|جت
+|orange|نارنجي
+|consumption|مصرف
+|assert|دفاع کردن از 
+|blade|تيغه
+|temporary|موقت
+|medication|دارو
+|cabin|کابين
+|bite|گاز
+|edition|چاپ
+|valley|دره
+|yours|مال شما
+|pitch|گام
+|pine|کاج
+|brilliant|برليان
+|versus|در مقابل
+|manufacturing|ساخت
+|absolute|مطلق
+|chef|سر اشپز
+|discrimination|تبعيض
+|offensive|حمله
+|boom|غرش
+|register|ثبات
+|appoint|منصوب کردن
+|heritage|ميراث
+|God|خداوند
+|dominant|غالب
+|successfully|موفقيت
+|shit|گه
+|lemon|ليمو
+|hungry|گرسنه
+|wander|سرگردان بودن
+|submit|ارسال
+|economics|علم اقتصاد
+|naked|برهنه
+|anticipate|سبقت جستن
+|nut|مهره
+|legacy|ميراث
+|extension|گسترش
+|shrug|شانه را بالا انداختن
+|battery|باتري
+|arrival|ورود
+|legitimate|مشروع
+|orientation|گرايش
+|inflation|تورم
+|cope|مقابله
+|flame|شعله
+|cluster|خوشه
+|wound|زخم
+|dependent|وابسته
+|shower|دوش
+|institutional|سازماني
+|depict|شرح دادن
+|operating|عملياتي
+|flesh|گوشت
+|garage|گاراژ
+|operator|اپراتور
+|instructor|معلم
+|collapse|سقوط
+|borrow|وام گرفتن
+|furthermore|بعلاوه
+|comedy|کمدي
+|mortgage|رهن
+|sanction|تصويب
+|civilian|غير نظامي
+|twelve|دوازده
+|weekly|هفتگي
+|habitat|محل سکونت
+|grain|دانه
+|brush|مسواک زدن
+|consciousness|هوشياري
+|devote|اختصاص دادن
+|measurement|اندازه گيري
+|province|استان
+|ease|سهولت
+|seize|ضبط کردن
+|ethics|اصول اخلاق
+|nomination|نامزدي
+|permission|اجازه
+|wise|عاقل
+|actress|بازيگر
+|summit|قله
+|acid|اسيد
+|odds|شانس
+|gifted|خوش ذوق
+|frustration|نا اميدي
+|medium|متوسط
+|physically|از لحاظ جسمي 
+|distinguish|تميز دادن
+|shore|ساحل
+|repeatedly|مکرر
+|lung|ريه
+|running|جاري
+|distinct|متمايز
+|artistic|هنرمندانه
+|discourse|سخن
+|basket|سبد
+|ah|اه
+|fighting|مبارز
+|impressive|موثر
+|competitor|رقيب
+|ugly|زشت
+|worried|نگران
+|portray|تصوير کشيدن
+|powder|پودر
+|ghost|شبح
+|persuade|وادار کردن
+|moderate|متوسط
+|subsequent|بعدي
+|continued|ادامه
+|cookie|کلوچه
+|carrier|حامل
+|cooking|پخت و پز 
+|frequent|مکرر
+|ban|ممنوع
+|awful|ترس
+|admire|حظ کردن
+|pet|حيوان خانگي
+|miracle|معجزه
+|exceed|تجاوز
+|rhythm|وزن
+|widespread|گسترده
+|killing|کشتن
+|lovely|دوست داشتني
+|sin|گناه
+|charity|صدقه
+|script|خط
+|tactic|تاکتيک
+|identification|شناسايي
+|transformation|دگرگوني
+|everyday|روزمره
+|headline|عنوان
+|venture|ريسک
+|invasion|تهاجم
+|nonetheless|با اينحال
+|adequate|کافي
+|piano|پيانو
+|grocery|بقالي
+|intensity|شدت
+|exhibit|نمايش دادن
+|blanket|پتو
+|margin|حاشيه
+|quarterback|کارفرمايي کردن
+|mouse|ماوس
+|rope|طناب
+|concrete|بتون
+|prescription|نسخه
+|African-American|آمريکايي هاي آفريقايي تبار
+|chase|تعقيب
+|brick|آجر
+|recruit|نو اموز استخدام کردن
+|patch|وصله
+|consensus|اجماع
+|horror|وحشت
+|recording|ضبط
+|changing|متغير
+|painter|نقاش
+|colonial|مستعمراتي
+|pie|پاي
+|sake|جهت
+|gaze|زل زل نگاه کردن
+|courage|شجاعت
+|pregnancy|بارداري
+|swear|سوگند
+|defeat|شکست
+|clue|گوي
+|reinforce|تقويت کردن
+|confusion|گيجي
+|slice|برش
+|occupation|اشغال
+|dear|عزيز
+|coal|زغال سنگ
+|sacred|مقدس
+|formula|فرمول
+|cognitive|شناختي
+|collective|جمعي
+|exact|دقيق
+|uncle|عمو
+|captain|ناخدا
+|sigh|اه
+|attribute|صفت
+|dare|شهامت
+|homeless|بي خانمان
+|gallery|گالري
+|soccer|فوتبال
+|defendant|مدافع
+|tunnel|تونل
+|fitness|سازگاري
+|lap|ليس زدن
+|grave|قبر
+|toe|پنجه
+|container|ظرف
+|virtue|تقوا
+|abroad|خارج از کشور 
+|architect|معمار
+|dramatically|به طور چشمگيري 
+|makeup|آرايش
+|inquiry|تحقيق
+|rose|گل سرخ
+|surprisingly|شگفت آور
+|highlight|برجسته
+|decrease|کاهش
+|indication|نشانه
+|rail|نرده
+|anniversary|سالگرد
+|couch|نيمکت
+|alliance|اتحاد
+|hypothesis|فرضيه
+|boyfriend|دوست پسر
+|compose|سرودن
+|mess|يک ظرف غذا 
+|legend|افسانه
+|regulate|تنظيم کردن
+|adolescent|نوجوان
+|shine|درخشش
+|norm|هنجار
+|upset|ناراحت
+|remark|سخن گفتن
+|resign|استعفا
+|reward|پاداش
+|gentle|ملايم
+|related|مرتبط
+|organ|عضو
+|lightly|سبک
+|concerning|در باره
+|invent|اختراع کردن
+|laughter|خنده
+|northwest|شمال غرب
+|counseling|مشاوره
+|receiver|گيرنده
+|ritual|تشريفات
+|insect|حشره
+|interrupt|قطع کردن
+|salmon|ماهي آزاد
+|trading|تجارت
+|magic|سحر
+|superior|برتر
+|combat|مبارزه با
+|stem|ساقه
+|surgeon|جراح
+|acceptable|قابل قبول
+|physics|فيزيک
+|rape|بزور بردن يا گرفتن
+|counsel|مشورت
+|jeans|شلوار جين
+|hunt|شکار
+|continuous|مداوم
+|log|ورود به سيستم 
+|echo|پژواک
+|pill|قرص
+|excited|برانگيخته
+|sculpture|مجسمه سازي
+|compound|ترکيب
+|integrate|ادغام
+|flour|پودر
+|bitter|تلخ
+|bare|لخت
+|slope|شيب
+|rent|اجاره
+|presidency|رياست
+|serving|خدمت
+|subtle|لطيف
+|greatly|تا حد زيادي 
+|bishop|اسقف
+|drinking|آشاميدني
+|acceptance|پذيرش
+|pump|تلمبه
+|candy|آبنبات
+|evil|بد
+|pleased|خوشحال
+|medal|مدال
+|beg|خواهش کردن
+|sponsor|حامي
+|ethical|اخلاقي
+|secondary|دوم
+|slam|با شدت بهم زدن
+|export|صادرات
+|experimental|تجربي
+|melt|ذوب کردن
+|midnight|نيمه شب
+|curve|منحني
+|integrity|تماميت
+|entitle|حق دادن مستحق دانستن
+|evident|مشهود
+|logic|منطق
+|essence|ذات
+|exclude|محروم کردن
+|harsh|خشن
+|closet|گنجه
+|suburban|برون شهري
+|greet|تبريک گفتن
+|interior|داخلي
+|corridor|راهرو
+|retail|خرده فروشي
+|pitcher|پارچ
+|march|مارس
+|snake|مار
+|excuse|بهانه
+|weakness|ضعف
+|pig|خوک
+|classical|کلاسيک
+|estimated|تخمين زده مي 
+|T-shirt|تي شرت
+|unemployment|بي کاري
+|civilization|تمدن
+|fold|برابر
+|reverse|معکوس
+|missing|گم
+|correlation|ارتباط
+|humanity|بشريت
+|flash|فلاش
+|developer|توسعه دهنده
+|reliable|قابل اعتماد
+|excitement|هيجان
+|beef|گوشت گاو
+|Islam|اسلام
+|Roman|رومي
+|architecture|معماري
+|occasional|گاه به گاه 
+|administrative|اداري
+|elbow|زانو
+|deadly|کشنده
+|Hispanic|اسپانيايي
+|allegation|ادعا
+|confuse|مغشوش کردن
+|airplane|هواپيما
+|monthly|ماهيانه
+|duck|اردک
+|dose|مقدار
+|Korean|کره اي
+|plead|در دادگاه اقامه يا ادعا کردن 
+|initiate|وارد کردن
+|lecture|سخنراني
+|van|ون
+|sixth|ششم
+|bay|سرخ مايل به قرمز
+|mainstream|مسير اصلي
+|suburb|حومه شهر
+|sandwich|ساندويچ
+|trunk|تنه
+|rumor|شايعه
+|implementation|اجرا
+|swallow|بلعيدن
+|motivate|انگيختن
+|render|ارائه دادن
+|longtime|قديمي
+|trap|تله
+|restrict|محدود کردن
+|cloth|پارچه
+|seemingly|ظاهر
+|legislative|مقننه
+|effectiveness|اثر
+|enforce|اجرا کردن
+|lens|عدسي
+|inspector|بازرس
+|lend|قرض دادن
+|plain|ساده
+|fraud|تقلب
+|companion|مصاحب
+|contend|ادعا کردن
+|nail|ناخن
+|array|صف
+|strict|سخت
+|assemble|سوار کردن
+|frankly|رک و پوست کنده
+|rat|موش
+|hay|يونجه خشک
+|hallway|کريدور
+|cave|غار
+|inevitable|اجتناب ناپذير
+|southwest|واقع در جنوب غربي
+|monster|هيولا
+|unexpected|غير منتظره
+|obstacle|مانع
+|facilitate|تسهيل
+|rip|پاره کردن
+|herb|گياه
+|overwhelming|قريب به اتفاق 
+|integration|ادغام
+|crystal|کريستال
+|recession|بحران اقتصادي
+|written|نوشتاري
+|motive|انگيزه
+|flood|سيل
+|pen|قلم
+|ownership|مالکيت
+|nightmare|کابوس
+|inspection|بازرسي
+|supervisor|سرپرست
+|consult|مشورت
+|arena|عرصه
+|diagnosis|تشخيص
+|possession|مالکيت
+|forgive|بخشيدن
+|consistently|به طور مداوم 
+|basement|زير زمين
+|drift|بي اراده کار کردن
+|drain|اب کشيدن از 
+|prosecution|تعقيب قانوني
+|maximum|بيشترين
+|announcement|اعلان
+|warrior|جنگجو
+|prediction|پيش گويي
+|bacteria|باکتري
+|questionnaire|پرسشنامه
+|mud|گل
+|infrastructure|شالوده
+|hurry|عجله
+|privilege|امتياز
+|temple|معبد
+|outdoor|خارج از منزل 
+|suck|مکيدن
+|and/or|و / يا 
+|broadcast|پخش
+|re|دوباره
+|leap|جستن
+|random|تصادفي
+|wrist|مچ دست
+|curtain|پرده
+|pond|درياچه
+|domain|دامنه
+|guilt|گناه
+|cattle|گاو
+|walking|راه رفتن
+|playoff|حذفي
+|minimum|حد اقل
+|fiscal|مالي
+|skirt|دامن
+|dump|موادي که موقتا براي استعمال انبار ميشود
+|hence|از اين رو 
+|database|پايگاه داده
+|uncomfortable|ناراحت
+|execute|اجرا کردن
+|limb|عضو
+|ideology|ايدئولوژي
+|tune|لحن
+|continuing|مداوم
+|harm|ضرر
+|railroad|راه آهن
+|endure|تحمل کردن
+|radiation|تابش
+|horn|شاخ
+|chronic|مزمن
+|peaceful|صلح آميز
+|innovation|ابداع
+|strain|زور
+|guitar|گيتار
+|replacement|جايگزيني
+|behave|رفتار کردن
+|administer|اداره کردن
+|simultaneously|به طور همزمان 
+|dancer|رقاص
+|amendment|اصلاح
+|pad|دفترچه يادداشت
+|transmission|انتقال
+|await|در انتظار
+|retired|بازنشسته
+|trigger|ماشه
+|spill|خرده
+|grateful|سپاسگزار
+|grace|زيبايي
+|virtual|مجازي
+|colony|مستعمره
+|adoption|اتخاذ
+|indigenous|بومي
+|closed|بسته
+|convict|محکوم
+|towel|حوله
+|modify|تغيير دادن
+|particle|ذره
+|prize|جايزه
+|landing|فرود
+|boost|بالا بردن
+|bat|خفاش
+|alarm|هشدار
+|festival|جشنواره
+|grip|چنگ
+|weird|خارق العاده
+|undermine|تحليل بردن
+|freshman|دانشجوي سال اول دانشکده
+|sweat|عرق
+|outer|خارجي
+|drunk|مست
+|separation|جدايي
+|traditionally|به طور سنتي 
+|govern|حکومت کردن
+|southeast|جنوب شرقي
+|intelligent|هوشمند
+|wherever|هر جا که 
+|ballot|ورقه راي
+|rhetoric|فصاحت و بلاغت 
+|convinced|متقاعد شده
+|driving|رانندگي
+|vitamin|ويتامين
+|enthusiasm|اشتياق
+|accommodate|جا دادن
+|praise|ستايش
+|injure|ازار رساندن
+|wilderness|بيابان
+|endless|بي پايان
+|mandate|حکم
+|respectively|به ترتيب
+|uncertainty|ترديد
+|chaos|هرج و مرج 
+|mechanical|مکانيکي
+|canvas|بوم نقاشي
+|forty|چهل
+|lobby|راهرو
+|profound|عميق
+|format|قالب
+|trait|ويژگي
+|currency|پول
+|turkey|بوقلمون
+|reserve|ذخيره
+|beam|پرتو
+|astronomer|ستاره شناس
+|corruption|فساد
+|contractor|مقاطعه کار
+|apologize|عذر خواهي کردن 
+|doctrine|اصول
+|genuine|واقعي
+|thumb|شست
+|unity|وحدت
+|compromise|سازش
+|horrible|ناگوار
+|behavioral|رفتاري
+|exclusive|انحصاري
+|scatter|پخش کردن
+|commonly|عموما
+|convey|رساندن
+|twist|پيچ
+|complexity|پيچيدگي
+|fork|چنگال
+|disk|ديسک
+|relieve|از بين بردن 
+|suspicion|سوء ظن
+|health-care|مراقبت از سلامت 
+|residence|محل اقامت
+|shame|شرم
+|meaningful|معني دار
+|sidewalk|پياده رو
+|Olympics|بازي هاي المپيک 
+|technological|فني
+|signature|امضا
+|pleasant|دلپذير
+|wow|چيز جالب
+|suspend|معلق کردن
+|rebel|شورشي
+|frozen|منجمد
+|spouse|همسر
+|fluid|مايع
+|pension|مستمري
+|resume|از سر گرفتن 
+|theoretical|نظري
+|sodium|سديم
+|promotion|ترويج
+|delicate|ظريف
+|forehead|پيشاني
+|rebuild|بازسازي
+|bounce|گزاف گويي
+|electrical|الکتريکي
+|hook|قلاب
+|detective|کاراگاه
+|traveler|مسافر
+|click|کليک کنيد
+|compensation|جبران
+|exit|خروج
+|attraction|جاذبه
+|dedicate|وقف کردن
+|altogether|روي هم رفته 
+|pickup|پيکاپ
+|carve|حک کردن
+|needle|سوزن
+|belly|شکم
+|scare|ترساندن
+|portfolio|مقام
+|shuttle|ماکو
+|invisible|مخفي
+|timing|تنظيم وقت
+|engagement|نامزدي
+|ankle|مچ پا
+|transaction|معامله
+|rescue|نجات
+|counterpart|رونوشت
+|historically|از لحاظ تاريخي 
+|firmly|محکم
+|mild|ملايم
+|rider|الحاقيه
+|doll|عروسک
+|noon|ظهر
+|amid|در ميان
+|identical|يکسان
+|precise|دقيق
+|anxious|مشتاق
+|structural|ساختماني
+|residential|مسکوني
+|diagnose|تشخيص
+|carbohydrate|ترکيبات خنثي کربن و اکسيژن و هيدرژن
+|liberty|ازادي
+|poster|پوستر
+|theology|الهيات
+|nonprofit|غير انتفاعي
+|crawl|خزيدن
+|oxygen|اکسيژن
+|handsome|زيبا
+|sum|مجموع
+|provided|ارائه
+|businessman|تاجر
+|promising|اميد بخش
+|conscious|هوشيار
+|determination|تعيين
+|donor|دهنده
+|hers|... او
+|pastor|شباني
+|jazz|جاز
+|opera|اپرا
+|acquisition|اکتساب
+|pit|گودال
+|hug|بغل کردن
+|wildlife|حيوانات وحشي
+|punish|تنبيه کردن
+|equity|انصاف
+|doorway|درگاه
+|departure|عزيمت
+|elevator|آسانسور
+|teenage|نوجوان
+|guidance|راهنمايي
+|happiness|شادي
+|statue|مجسمه
+|pursuit|تعقيب
+|repair|تعمير
+|decent|نجيب
+|gym|ورزشگاه
+|oral|دهاني
+|clerk|منشي
+|envelope|پاکت
+|reporting|گزارش
+|destination|مقصد
+|fist|مشت
+|endorse|امضا کردن
+|exploration|اکتشاف
+|generous|بخشنده
+|bath|وان
+|thereby|بدان وسيله
+|indicator|شاخص
+|sunlight|نور خورشيد
+|feedback|باز خورد
+|spectrum|طيف
+|purple|رنگ ارغواني
+|laser|ليزر
+|bold|گستاخ
+|reluctant|بي ميل
+|starting|شروع
+|expertise|تخصص
+|practically|عملا
+|eating|خوردن
+|hint|اشاره
+|sharply|به شدت
+|parade|رژه
+|realm|حوزه
+|cancel|لغو کردن
+|blend|مخلوط
+|therapist|درمانشناس
+|peel|پوست
+|pizza|پيتزا
+|recipient|گيرنده
+|hesitate|دريغ
+|flip|تلنگر
+|accounting|حسابداري
+|bias|تعصب
+|huh|متعجب
+|metaphor|استعاره
+|candle|شمع
+|judicial|قضايي
+|entity|وجود
+|suffering|مبتلا
+|full-time|تمام وقت
+|lamp|لامپ
+|garbage|زباله
+|servant|بنده
+|regulatory|تنظيمي
+|diplomatic|ديپلماتيک
+|elegant|زيبا
+|reception|پذيرش
+|vanish|ناپديد شدن
+|automatically|بطور خودکار
+|chin|چانه
+|necessity|ضرورت
+|confess|اعتراف کردن
+|racism|نژاد پرستي
+|starter|شروع کننده
+|banking|بانکداري
+|casual|اتفاقي
+|gravity|ثقل
+|enroll|ثبت نام کردن 
+|diminish|کم شدن
+|prevention|ممانعت
+|minimize|به حداقل رساندن 
+|chop|ريز ريز کردن 
+|performer|بازيگر
+|intent|قصد
+|isolate|منزوي
+|inventory|فهرست
+|productive|توليد کننده
+|assembly|مجلس
+|civic|مدني
+|silk|ابريشم
+|magnitude|قدر
+|steep|تند
+|hostage|گروگان
+|collector|جمع کننده
+|popularity|محبوبيت
+|alien|بيگانه
+|dynamic|پويا
+|scary|ترسناک
+|equation|معادله
+|angel|فرشته
+|offering|ارائه
+|rage|خشم
+|photography|عکاسي
+|toilet|توالت
+|disappointed|نااميد
+|precious|گرانبها
+|prohibit|را ممنوع کرده است
+|realistic|واقع بين
+|hidden|مخفي
+|tender|مناقصه
+|gathering|جمع آوري
+|outstanding|برجسته
+|stumble|تلو تلو خوردن 
+|lonely|تنها
+|automobile|اتومبيل
+|artificial|مصنوعي
+|dawn|سپيده دم
+|abstract|انتزاعي
+|descend|فرود امدن
+|silly|احمقانه
+|tide|جريان
+|shared|به اشتراک گذاشته شده
+|hopefully|اميدوارم
+|readily|به آساني
+|cooperate|همکاري
+|revolutionary|انقلابي
+|romance|داستان عاشقانه
+|hardware|سخت افزار
+|pillow|بالش
+|kit|کيت
+|continent|قاره
+|seal|مهر و موم 
+|circuit|جريان
+|ruling|حاکم
+|shortage|کمبود
+|annually|در سال
+|lately|اخيرا
+|scan|اسکن
+|fool|احمق
+|deadline|ضرب الاجل
+|rear|عقب
+|processing|پردازش
+|ranch|در مرتع پرورش احشام کردن  
+|coastal|ساحلي
+|undertake|بعهده گرفتن
+|softly|ملايم
+|burning|سوزش
+|verbal|شفاهي
+|tribal|قبيلهاي
+|ridiculous|مضحک
+|automatic|اتوماتيک
+|diamond|الماس
+|credibility|اعتبار
+|import|واردات
+|sexually|جنسي
+|divine|الهي
+|sentiment|احساس
+|cart|گاري
+|oversee|نظارت بر
+|o'clock|ساعت
+|elder|بزرگتر
+|pro|طرفدار
+|inspiration|الهام
+|Dutch|هلندي
+|quantity|مقدار
+|trailer|يدک
+|mate|همسر
+|Greek|يوناني
+|genius|نابغه
+|monument|اثر تاريخي
+|bid|پيشنهاد
+|quest|جستجو
+|sacrifice|قرباني
+|invitation|دعوت
+|accuracy|دقت
+|juror|داور
+|officially|رسمي
+|broker|دلال
+|treasure|گنج
+|loyalty|وفاداري
+|talented|مستعد
+|gasoline|بنزين
+|stiff|سفت
+|output|توليد
+|output|خروجی
+|nominee|نامزد
+|extended|تمديد شده
+|diabetes|ديابت
+|slap|با کف دست زدن
+|toxic|سمي
+|alleged|ادعا
+|jaw|فک
+|grief|اندوه
+|mysterious|مرموز
+|rocket|موشک
+|donate|بخشيدن
+|inmate|زنداني
+|tackle|مقابله با
+|dynamics|ديناميک
+|bow|تعظيم
+|ours|مال ما
+|dignity|شان
+|carpet|فرش
+|parental|والديني
+|bubble|حباب
+|buddy|رفيق
+|barn|طويله
+|sword|شمشير
+|seventh|هفتم
+|glory|شکوه
+|tightly|محکم
+|protective|محافظ
+|tuck|در جاي دنج قرارگرفتن يا قرار دادن
+|drum|طبل
+|faint|ضعف
+|queen|ملکه
+|dilemma|معماي غير قابل حل
+|input|ورودي
+|specialize|تخصص
+|northeast|شمال شرق
+|shallow|کم عمق
+|liability|مسئوليت
+|sail|بادبان
+|merchant|تاجر
+|stadium|ورزشگاه
+|improved|بهبود
+|bloody|خونين
+|associated|مرتبط
+|withdrawal|خروج
+|refrigerator|يخچال
+|nest|لانه
+|thoroughly|بطور کامل
+|lane|کوچه
+|ancestor|جد
+|condemn|محکوم کردن
+|steam|بخار
+|accent|لهجه
+|optimistic|خوش بين
+|unite|متحد کردن
+|cage|قفس
+|equip|مجهز کردن
+|shrimp|ميگو
+|homeland|ميهن
+|rack|دندانه دار کردن 
+|costume|لباس
+|wolf|گرگ
+|courtroom|دادگاه
+|statute|اساسنامه
+|cartoon|کاريکاتور
+|productivity|باروري
+|grin|پوزخند
+|symbolic|نمادين
+|bug|اشکال
+|bless|برکت دهد
+|aunt|عمه
+|agriculture|کشاورزي
+|hostile|دشمن
+|conceive|تصور کردن
+|combined|ترکيب شده
+|instantly|فورا
+|bankruptcy|ورشکستگي
+|vaccine|واکسن
+|bonus|جايزه
+|collaboration|همکاري
+|mixed|مخلوط
+|opposed|مخالف
+|orbit|مدار
+|grasp|فهم
+|patience|صبر
+|spite|کينه
+|tropical|گرمسيري
+|voting|راي گيري
+|patrol|گشت
+|willingness|تمايل
+|revelation|وحي
+|calm|آرام
+|jewelry|جواهر فروشي
+|Cuban|کوبا
+|haul|حمل و نقل 
+|concede|واگذار کردن
+|wagon|واگن
+|afterward|بعد از آن 
+|spectacular|تماشايي
+|ruin|خراب کردن
+|sheer|محض
+|immune|مصون
+|reliability|قابليت اطمينان
+|ass|الاغ
+|alongside|در کنار
+|bush|بوش
+|exotic|عجيب و غريب 
+|fascinating|فريبنده
+|clip|گيره يا پنس 
+|thigh|ران
+|bull|گاو نر
+|drawer|کشو
+|sheep|گوسفند
+|discourage|دلسرد کردن
+|coordinator|هماهنگ کننده
+|ideological|ايدئولوژيک
+|runner|دونده
+|secular|دنيوي
+|intimate|صميمي
+|empire|امپراطوري
+|cab|تاکسي
+|exam|امتحان
+|documentary|مستند
+|neutral|خنثي
+|biology|زيست شناسي
+|flexible|قابل انعطاف
+|progressive|مترقي
+|web|وب سايت
+|conspiracy|توطئه
+|casualty|سانحه
+|republic|جمهوري
+|execution|اعدام
+|terrific|فوق العاده
+|whale|نهنگ
+|functional|تابعي
+|instinct|غريزه
+|teammate|همگروه
+|aluminum|آلومينيوم
+|whoever|هر کسي که 
+|ministry|وزارت
+|verdict|حکم
+|instruct|اموختن به
+|skull|جمجمه
+|self-esteem|عزت نفس
+|cooperative|تعاوني
+|manipulate|دستکاري کردن
+|bee|زنبور
+|practitioner|شاغل
+|loop|حلقه
+|edit|ويرايش
+|whip|شلاق
+|puzzle|پازل
+|mushroom|قارچ
+|subsidy|کمک مالي
+|boil|جوش
+|tragic|غم انگيز
+|mathematics|رياضيات
+|mechanic|مکانيک
+|jar|تکان
+|earthquake|زلزله
+|pork|گوشت خوک
+|creativity|خلاقيت
+|safely|با خيال راحت 
+|underlying|اساسي
+|dessert|دسر
+|sympathy|همدردي
+|fisherman|ماهي گير
+|incredibly|فوق العاده
+|isolation|انزوا
+|sock|جوراب ساقه کوتاه 
+|eleven|يازده
+|sexy|شهوت انگيز
+|entrepreneur|موسس شرکت
+|syndrome|سندرم
+|bureau|دفتر
+|workplace|محل کار
+|ambition|جاه طلبي
+|touchdown|زمين نشستن کامل هواپيما
+|utilize|استفاده
+|breeze|نسيم
+|costly|گران
+|ambitious|جاه طلب
+|Christianity|مسيحيت
+|presumably|احتمالا
+|influential|نفوذ
+|translation|ترجمه
+|uncertain|مردد
+|dissolve|حل کردن
+|statistical|آماري
+|gut|دل و روده 
+|metropolitan|شهري
+|rolling|غلت
+|aesthetic|زيبايي
+|spell|طلسم
+|insert|درج
+|booth|غرفه
+|helmet|کلاه خود
+|waist|دور کمر
+|expected|انتظار مي رود 
+|lion|شير
+|accomplishment|انجام
+|royal|سلطنتي
+|panic|وحشت
+|crush|له شدن
+|actively|فعالانه
+|cliff|صخره
+|minimal|حداقل
+|cord|طناب
+|fortunately|خوشبختانه
+|cocaine|كوكائين
+|illusion|وهم
+|anonymous|بي نام
+|tolerate|تحمل
+|appreciation|قدرداني
+|commissioner|عضو هيئت
+|flexibility|انعطاف پذيري
+|instructional|آموزشي
+|scramble|تقلا
+|casino|کازينو
+|tumor|تومور
+|decorate|تزئين کردن
+|pulse|نبض
+|equivalent|معادل
+|fixed|ثابت
+|experienced|با تجربه
+|donation|اهداء
+|diary|دفتر خاطرات روزانه 
+|sibling|برادر يا خواهر 
+|irony|طنز
+|spoon|قاشق
+|midst|در ميان
+|alley|کوچه
+|interact|تعامل
+|soap|صابون
+|cute|زيبا
+|rival|رقيب
+|short-term|کوتاه مدت
+|punch|مشت
+|pin|پين
+|hockey|هاکي
+|passing|عبور
+|persist|باقي بماند
+|supplier|تهيه کننده
+|known|شناخته شده
+|momentum|حرکت
+|purse|کيف پول
+|shed|ريختن
+|liquid|مايع
+|icon|شمايل
+|elephant|فيل
+|consequently|در نتيجه
+|legislature|قوه مقننه
+|franchise|حق راي دادن 
+|correctly|به درستي
+|mentally|روحا
+|foster|پرورش دادن
+|bicycle|دوچرخه
+|encouraging|دلگرم کننده
+|cheat|فريب
+|heal|زخم التيام يابد 
+|fever|تب
+|filter|فيلتر
+|rabbit|خرگوش
+|coin|سکه
+|exploit|بهره برداري
+|accessible|در دسترس
+|organism|ارگانيسم
+|sensation|احساس
+|partially|تا حدي
+|upstairs|طبقه بالا
+|dried|خشک
+|conservation|حفاظت
+|shove|پرتاب
+|backyard|حياط خلوت
+|charter|منشور
+|stove|اجاق
+|consent|رضايت
+|comprise|را تشکيل مي دهند
+|reminder|تذکر
+|alike|يکسان
+|placement|کاريابي
+|dough|خمير
+|grandchild|نوه
+|dam|سد
+|reportedly|بنا به گزارش 
+|well-known|معروف
+|surrounding|محيط
+|ecological|زيست محيطي
+|outfit|ساز و برگ 
+|unprecedented|بي سابقه
+|columnist|مقاله نويس
+|workout|تمرين
+|preliminary|مقدماتي
+|patent|حق ثبت اختراع 
+|shy|خجالتي
+|trash|سطل زباله
+|disabled|غير فعال
+|gross|بزرگ
+|damn|لعنتي
+|hormone|هورمون
+|texture|بافت
+|pencil|مداد
+|frontier|مرز
+|spray|افشانه
+|disclose|فاش کردن
+|custody|حبس
+|banker|صراف
+|beast|جانور
+|interfere|تداخل
+|oak|بلوط
+|eighth|هشتمين
+|notebook|دفتر يادداشت
+|outline|رئوس مطالب
+|attendance|حضور
+|speculation|احتکار
+|uncover|کشف کردن
+|behalf|بابت
+|innovative|نوآورانه
+|shark|کوسه ماهي
+|mill|کارخانه
+|installation|نصب
+|stimulate|تحريک
+|tag|برچسب
+|vertical|عمودي
+|swimming|شنا
+|fleet|ناوگان
+|catalog|فهرست
+|outsider|بيگانه
+|desperately|به شدت
+|stance|حالت
+|compel|وادار کردن
+|sensitivity|حساسيت
+|someday|روزي
+|instant|فوري
+|debut|اغاز کار
+|proclaim|جار زدن
+|worldwide|در سرتاسر جهان 
+|hike|پياده روي
+|required|ضروري
+|confrontation|مواجهه
+|colorful|رنگارنگ
+|constitution|قانون اساسي
+|trainer|فرهيختار
+|Thanksgiving|شکر گزاري
+|scent|عطر
+|stack|پشته
+|eyebrow|خط ابرو
+|sack|کيسه
+|cease|توقف
+|inherit|به ارث مي برند
+|tray|سيني
+|pioneer|پيشگام
+|organizational|سازماني
+|textbook|کتاب درسي
+|uh|آه
+|nasty|تند و زننده 
+|shrink|کوچک شدن
+|emerging|در حال ظهور 
+|dot|نقطه
+|wheat|گندم
+|fierce|درنده
+|envision|رويايي بودن
+|rational|منطقي
+|kingdom|پادشاهي
+|aisle|راهرو
+|weaken|ضعيف شدن
+|protocol|پروتکل
+|exclusively|منحصرا
+|vocal|صوتي
+|marketplace|بازار
+|openly|علنا
+|unfair|غير منصفانه
+|terrain|زمين
+|deploy|گسترش
+|risky|پر مخاطره
+|pasta|پاستا
+|genre|نوع
+|distract|گيج کردن
+|merit|شايستگي
+|planner|نقشه کش
+|depressed|افسرده
+|chunk|تکه
+|closest|نزديکترين
+|discount|تخفيف
+|ladder|نردبان
+|jungle|جنگل
+|migration|کوچ
+|breathing|تنفس
+|invade|حمله
+|hurricane|طوفان
+|retailer|خرده فروش
+|classify|دسته بندي کردن 
+|coup|کودتا
+|ambassador|سفير
+|density|تراکم
+|supportive|حمايت
+|curiosity|حس کنجکاوي
+|skip|پريدن
+|aggression|تجاوز
+|stimulus|محرک
+|journalism|روزنامهنگاري
+|robot|ربات
+|dip|شيب
+|likewise|نيز
+|informal|غير رسمي
+|Persian|فارسي
+|feather|پر
+|sphere|حوزه
+|tighten|سفت شدن
+|boast|به رخ کشيدن
+|pat|اهسته دست زدن به
+|perceived|درک
+|sole|تنها
+|publicity|تبليغات
+|unfold|باز کردن
+|well-being|تندرستي
+|Accept|پذيرفتن
+|Allow|اجازه دادن
+|Ask|پرسيدن
+|Believe|باور كردن
+|Borrow|قرض گرفتن
+|Break|شكستن
+|Bring|آوردن
+|Buy|خريدن
+|Can/ Be able|توانستن
+|Can|توانستن
+|Be able|توانستن
+|Cancel|منتفي كردن
+|Change|تغيير دادن
+|Clean|تمييز كردن
+|Comb|شانه كردن
+|Complain|شكايت كردن
+|Cough|سرفه كردن
+|Count|شمردن
+|Cut|بريدن
+|Dance|رقصيدن
+|Draw|كشيدن
+|Drink|نوشيدن
+|Drive|رانندگي كردن
+|Eat|خوردن
+|Explain|توضيح دادن
+|Fall|افتادن
+|Fill|پر كردن
+|Find|پيدا كردن
+|Finish|تمام كردن
+|Fit|جا دادن
+|Fix|درست كردن
+|Fly|پرواز كردن
+|Forget|فراموش كردن
+|Give|دادن
+|Go|رفتن
+|Have|داشتن
+|Hear|شنيدن
+|Hurt|زخمي شدن
+|Know|دانستن
+|Learn|يادگرفتن
+|Leave|ترك كردن
+|Listen|گوش كردن
+|Live|زندگي كردن
+|Look|ديدن
+|Lose|گم كردن
+|Make/Do|انجام دادن
+|Need|احتياج داشتن
+|Open|بازكردن
+|Organise|منظم كردن
+|‍Close/Shut|بستن
+|Pay|پرداختن
+|Play|بازي كردن
+|Put|قرار دادن
+|Rain|باريدن
+|Read|خواندن
+|Reply|پاسخ دادن
+|Run|دويدن
+|Say|گفتن
+|See|ديدن
+|Sell|فروختن
+|Send|فرستادن
+|Sign|امضا كردن
+|Sing|آواز خواندن
+|Sit|نشستن
+|Sleep|خوابيدن
+|Smoke|سيگار كشيدن
+|Speak|صحبت كردن
+|Spell|هجي كردن
+|Spend|پرداختن
+|Stand|ايستادن
+|Start/Begin|شروع كردن
+|Study|درس خواندن
+|Succeed|موفق شدن
+|Swim|شنا كردن
+|Take|گرفتن
+|Talk|صحبت كردن
+|Constructor|سازنده
+|Summary|خلاصه
+|Teach|ياد دادن
+|Tell|گفتن
+|Think|فكر كردن
+|translate|ترجمه كردن
+|Translator|مترجم
+|parameters|پارامترها
+|throws|انداختن
+|containing|حاوی
+|Parameter|پارامتر
+|default|پیش فرض
+|extends|گسترش
+|Travel|سفر كردن
+|Try|امتحان كردن
+|Turn off|خاموش كردن
+|Turn on|روشن كردن
+|Type|تايپ كردن
+|Understand|فهميدن
+|Use|استفاده كردن
+|Wait|صبر كردن
+|Wake up|بيدار شدن
+|Want|خواستن
+|Watch|نگاه كردن
+|Work|كاركردن
+|Worry|نگران شدن
+|Write|نوشتن
+|Waste|هدر رفتن
+|Wonder|تعجب كردن
+|Worship|عبادت كردن
+|Win|برنده شدن
+|Wear|پوشيدن
+|Wash|شستن
+|Welcome|خوش آمد گويي

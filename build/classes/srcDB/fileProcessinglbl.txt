@@ -1,0 +1,18 @@
+Time and space complexity analysis for : Default Word
+Time for translating Line by Line for : Default words : 645
+
+Time and space complexity analysis for : 100 Word
+Time for translating Line by Line for : 100 words : 1099
+
+Time and space complexity analysis for : 500 Word
+Time for translating Line by Line for : 500 words : 3924
+
+Time and space complexity analysis for : 1000 Word
+Time for translating Line by Line for : 1000 words : 7555
+
+Time and space complexity analysis for : 5000 Word
+Time for translating Line by Line for : 5000 words : 38527
+
+Time and space complexity analysis for : 10000 Word
+Time for translating Line by Line for : 10000 words : 77978
+

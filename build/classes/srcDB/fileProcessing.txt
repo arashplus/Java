@@ -1,0 +1,18 @@
+Time and space complexity analysis for : Default Word
+Time for translating Default words : 1014
+
+Time and space complexity analysis for : 100 Word
+Time for translating 100 words : 1033
+
+Time and space complexity analysis for : 500 Word
+Time for translating 500 words : 3959
+
+Time and space complexity analysis for : 1000 Word
+Time for translating 1000 words : 6688
+
+Time and space complexity analysis for : 5000 Word
+Time for translating 5000 words : 34436
+
+Time and space complexity analysis for : 10000 Word
+Time for translating 10000 words : 63166
+

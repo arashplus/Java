@@ -1,0 +1,3900 @@
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
+translator
+Class Translator
+
+public class Translator
+extends java.lang.Object
+Since:
+2017-04-01
+Version:
+1.0
+Author:
+Arash Seyedi
+
+Constructor Summary
+Constructor and Description
+
+Translator() 
+Method Summary
+
+All MethodsStatic MethodsConcrete Methods
+Modifier and Type Method and Description
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+Constructor Detail
+
+Translator
+public Translator()
+Method Detail
+
+main
+public static void main(java.lang.String[] args)
+                 throws java.io.IOException
+in main() method we are declaring object for all class from different package
+and also calling methods and passing data.
+
+Parameters:
+args - default 
+data - containing the output value
+Throws:
+java.io.IOException
